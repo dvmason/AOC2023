@@ -10,6 +10,13 @@ Class {
 }
 
 { #category : 'code-critics' }
+ManifestAOC2023 class >> ruleLongMethodsRuleV1FalsePositive [
+
+	<ignoreForCoverage>
+	^ #(#(#(#RGClassDefinition #(#AOC)) #'2023-12-05T13:24:36.882733-05:00') )
+]
+
+{ #category : 'code-critics' }
 ManifestAOC2023 class >> ruleSearchingLiteralRuleV1FalsePositive [
 
 	<ignoreForCoverage>

@@ -1,8 +1,9 @@
 Class {
 	#name : 'AOCTest',
 	#superclass : 'TestCase',
-	#category : 'AOC2023',
-	#package : 'AOC2023'
+	#category : 'AOC2023-Tests',
+	#package : 'AOC2023',
+	#tag : 'Tests'
 }
 
 { #category : 'data' }
@@ -1808,9 +1809,9 @@ AOCTest >> test03 [
 ...$.*....
 .664.598..'.
 	self assert: (AOC day03a: sample) equals: 4361.
-	self assert: (AOC day03a: self data03) equals: nil.
-	self assert: (AOC day03b: sample) equals: nil.
-	self assert: (AOC day03b: self data03) equals: nil
+	self assert: (AOC day03a: self data03) equals: 520135.
+	self assert: (AOC day03b: sample) equals: 467835.
+	self assert: (AOC day03b: self data03) equals: 72514855
 ]
 
 { #category : 'tests' }
