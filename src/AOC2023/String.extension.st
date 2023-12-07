@@ -1,6 +1,40 @@
 Extension { #name : 'String' }
 
 { #category : '*AOC2023' }
+String >> camelCardValue [
+
+	| hand counts rank |
+	hand := self
+		        collect: [ :each | ' 23456789TJQKA' indexOf: each ]
+		        as: Array.
+	counts := Array new: 14 withAll: 0.
+	hand do: [ :each | counts at: each put: (counts at: each) + 1 ].
+	counts sort: [:l :r| l>=r].
+	rank := #( 1 2 4 6 7 ) at: counts first.
+	counts second = 2 ifTrue: [ rank := rank + 1 ].
+	^ rank * 10000000000
+	  + (hand inject: 0 into: [ :sum :each | sum * 100 + each ])
+]
+
+{ #category : '*AOC2023' }
+String >> camelCardValueWithJoker [
+
+	| hand counts rank jokers |
+	hand := self
+		        collect: [ :each | 'J23456789TQKA' indexOf: each ]
+		        as: Array.
+	counts := Array new: 13 withAll: 0.
+	hand do: [ :each | counts at: each put: (counts at: each) + 1 ].
+	jokers := counts at: 1.
+	counts at: 1 put: 0.
+	counts sort: [:l :r| l>=r].
+	rank := #( 1 2 4 6 7 ) at: counts first+jokers.
+	counts second = 2 ifTrue: [ rank := rank + 1 ].
+	^ rank * 10000000000
+	  + (hand inject: 0 into: [ :sum :each | sum * 100 + each ])
+]
+
+{ #category : '*AOC2023' }
 String >> getDigitAt: index [
 
 	| c p nums |
@@ -19,6 +53,20 @@ String >> getDigitAt: index [
 					ifTrue: [ c := c + 1 ]
 					ifFalse: [ ^ nil ] ] ].
 	^ nil
+]
+
+{ #category : '*AOC2023' }
+String >> lotteryTicket [
+
+	| card winners chosen |
+	card := self splitOn: ':'.
+	winners := (card last splitOn: '|') first substrings
+		           collect: #asNumber
+		           as: Set.
+	chosen := (card last splitOn: '|') last substrings
+		          collect: #asNumber
+		          as: Set.
+	^ (winners intersection: chosen) size
 ]
 
 { #category : '*AOC2023' }

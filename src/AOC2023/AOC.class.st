@@ -61,6 +61,131 @@ AOC class >> day03b: aString [
 	^ self new day03b: aString
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day04a: aString [
+
+	| total |
+	total := 0.
+	aString linesDo: [ :line | | count | count := line lotteryTicket. 
+		  count = 0 ifFalse: [ total := total + (2 raisedTo: count - 1) ] ].
+	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day04b: aString [
+
+	| total lines counts |
+	total := 0.
+	lines := aString lines.
+	counts := Array new: lines size withAll: 1.
+	1 to: lines size do: [ :index |
+		| count repeat |
+		repeat := counts at: index. 
+		count := (lines at: index) lotteryTicket.
+		index + 1 to: index + count do: [ :i |
+		counts at: i put: (counts at: i) + repeat ] ].
+	^ counts sum 
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day05: aString init: init process: process [
+
+	| source destination |
+	aString linesDo: [ :line |
+		line isEmpty ifFalse: [
+			(line first: 6) = 'seeds:'
+				ifTrue: [
+					destination := init value:
+						               (line substrings allButFirst collect: #asNumber) ]
+				ifFalse: [
+					line last = $:
+						ifTrue: [ source := destination copy ]
+						ifFalse: [
+							| data sfirst slast delta |
+							data := line substrings collect: #asNumber.
+							sfirst := data second.
+							slast := sfirst + data last - 1.
+							delta := data first - sfirst.
+							destination := process
+								               value: destination
+								               value: destination
+								               value: (sfirst to: slast)
+								               value: delta ] ] ] ].
+	^ destination min
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day05a: aString [
+
+	^ self
+		  day05: aString
+		  init: #yourself
+		  process: [ :source :destination :range :delta |
+			  source withIndexCollect: [ :each :index |
+				  (each between: range first and: range stop) ifTrue: [
+					  destination at: index put: each + delta ] ].
+			  destination ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day05b: aString [
+
+	^ self
+		  day05: aString
+		  init: [ :inputs |
+			  | input |
+			  input := ReadStream on: inputs.
+			  Array streamContents: [ :s |
+				  [ input atEnd ] whileFalse: [
+					  | start count |
+					  start := input next.
+					  count := input next.
+					  s nextPut: (start to: start + count - 1) ] ] ]
+		  process: [ :source :destination :range :delta | self halt ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day06a: aString [
+
+	^ ((aString lines first substrings allButFirst collect: #asNumber)
+		   with:
+		   (aString lines last substrings allButFirst collect: #asNumber)
+		   collect: [ :time :dist | time trialsBetterThan: dist ])
+		  inject: 1
+		  into: [ :prod :each | prod * each ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day06b: aString [
+
+	^ ('' join: aString lines first substrings allButFirst) asNumber
+		   trialsBetterThan:
+		   ('' join: aString lines last substrings allButFirst) asNumber
+
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day07a: aString [ 
+	| hands total |
+	hands := aString lines collect: [ :line| line substrings first camelCardValue-> line substrings last asNumber ].
+	total := 0.
+	(hands sort: [ :l :r | l key <= r key ]) doWithIndex: [ :hand :index | total := hand value * index + total ].
+	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day07b: aString [
+
+	| hands total |
+	hands := aString lines collect: [ :line |
+		         line substrings first camelCardValueWithJoker
+		         -> line substrings last asNumber ].
+	total := 0.
+	(hands sort: [ :l :r | l key <= r key ]) doWithIndex: [ :hand :index |
+		total := hand value * index + total ].
+	^ total
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |

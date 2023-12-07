@@ -55,5 +55,5 @@ ManifestAOC2023 class >> ruleStringConcatenationRuleV1FalsePositive [
 ManifestAOC2023 class >> ruleTempsReadBeforeWrittenRuleV1FalsePositive [
 
 	<ignoreForCoverage>
-	^ #(#(#(#RGMethodDefinition #(#'AOC class' #day01b: #true)) #'2023-12-04T23:56:10.46045-05:00') )
+	^ #(#(#(#RGMethodDefinition #(#'AOC class' #day01b: #true)) #'2023-12-04T23:56:10.46045-05:00') #(#(#RGMetaclassDefinition #(#'AOC class' #AOC)) #'2023-12-06T18:14:30.416368-05:00') )
 ]
