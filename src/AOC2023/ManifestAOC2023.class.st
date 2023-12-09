@@ -13,7 +13,7 @@ Class {
 ManifestAOC2023 class >> ruleLongMethodsRuleV1FalsePositive [
 
 	<ignoreForCoverage>
-	^ #(#(#(#RGClassDefinition #(#AOC)) #'2023-12-05T13:24:36.882733-05:00') )
+	^ #(#(#(#RGClassDefinition #(#AOC)) #'2023-12-05T13:24:36.882733-05:00') #(#(#RGMetaclassDefinition #(#'AOC class' #AOC)) #'2023-12-08T09:23:57.867201-05:00') )
 ]
 
 { #category : 'code-critics' }

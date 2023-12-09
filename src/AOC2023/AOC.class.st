@@ -186,6 +186,85 @@ AOC class >> day07b: aString [
 	^ total
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day08a: aString [
+
+	| directions map count position |
+	map := Dictionary new.
+	aString linesDo: [ :line |
+		line isEmpty ifFalse: [
+			directions
+				ifNil: [
+					directions := line
+						              collect: [ :char | 'LR' indexOf: char ]
+						              as: Array ]
+				ifNotNil: [
+					| ss |
+					ss := line substrings.
+					map at: ss first put: {
+							ss third allButFirst allButLast.
+							ss last allButLast } ] ] ].
+	count := 0.
+	position := 'AAA'.
+	[ true ] whileTrue: [
+		directions do: [ :direction |
+			'ZZZ' = position ifTrue: [ ^ count ].
+			count := count + 1.
+			position := (map at: position) at: direction ] ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day08b: aString [
+
+	| directions map slowMap keys count position exits |
+	slowMap := Dictionary new.
+	aString linesDo: [ :line |
+		line isEmpty ifFalse: [
+			directions
+				ifNil: [
+					directions := line
+						              collect: [ :char | 'LR' indexOf: char ]
+						              as: Array ]
+				ifNotNil: [
+					| ss |
+					ss := line substrings.
+					slowMap at: ss first put: {
+							ss third allButFirst allButLast.
+							ss last allButLast } ] ] ].
+	keys := slowMap keys.
+	map := Array new: keys size.
+	exits := keys collect: [ :key | key last = $Z ].
+	slowMap keysAndValuesDo: [ :key :value |
+		map at: (keys indexOf: key) put: {
+				(keys indexOf: value first).
+				(keys indexOf: value second) } ].
+	count := 0.
+	position := keys
+		            select: [ :key | key last = $A ]
+		            thenCollect: [ :key | keys indexOf: key ].
+	[ true ] whileTrue: [
+		directions do: [ :direction | | found |
+			count := count + 1.
+			found := true.
+			position withIndexDo: [ :key :index | | next |
+				next := (map at: key) at: direction.
+				found := found & (exits at: next).
+				position at: index put: next ].
+			found ifTrue: [ ^ count ] ] ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day09a: aString [
+
+	^ (aString lines collect: [: line | (line substrings collect: #asNumber) day09a]) sum
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day09b: aString [
+
+	^ (aString lines collect: [: line | (line substrings collect: #asNumber) day09b]) sum
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |
