@@ -265,6 +265,52 @@ AOC class >> day09b: aString [
 	^ (aString lines collect: [: line | (line substrings collect: #asNumber) day09b]) sum
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day10a: aString [
+
+	^ self new day10a: aString
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day10b: aString [
+
+	| path |
+	path := self new.
+	path day10a: aString.
+	self halt.
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day11a: aString expansion: expansion [
+
+	| columnsUsed galaxies row offset offsets sum |
+	galaxies := OrderedCollection new.
+	row := 0.
+	aString lines do: [ :line |
+		| found |
+		found := false.
+		row := row + 1.
+		row = 1 ifTrue: [
+			columnsUsed := Array new: line size withAll: false ].
+		line withIndexDo: [ :c :col |
+			c = $# ifTrue: [
+				found := true.
+				columnsUsed at: col put: true.
+				galaxies add: row @ col ] ].
+		found ifFalse: [ row := row + expansion ] ].
+	offset := 0.
+	offsets := columnsUsed collect: [ :c |
+		           c ifFalse: [ offset := offset + expansion ].
+		           offset ].
+	galaxies := galaxies collect: [ :g | g x @ (g y + (offsets at: g y)) ].
+	sum := 0.
+	galaxies
+		combinations: 2
+		atATimeDo: [ :a |
+		sum := sum + (a first manhattanDistanceTo: a second) ].
+	^ sum
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |
@@ -328,4 +374,57 @@ AOC >> day03b: aString [
 				row - 1 to: row + 1 do: [ :r | col - 1 to: col + 1 do: [ :c | (numbers at: r@c ifPresent: [:s| set add: s]) ] ].
 				set size = 2 ifTrue: [ total := total + (set asArray inject: 1 into: [:p :e| p*e asNumber]) ] ] ] ].
 	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC >> day10a: aString [
+
+	| row col tRow tCol count mRow mCol moving |
+	array := aString lines.
+	array withIndexDo: [ :line :indexL |
+		| temp |
+		temp := line indexOf: $S.
+		temp > 0 ifTrue: [
+			row := indexL.
+			col := temp ].
+		array at: indexL put: line asArray ].
+	moving := {
+		          ($J -> #( -1 -1 )).
+		          ($7 -> #( 1 -1 )).
+		          ($F -> #( 1 1 )).
+		          ($L -> #( -1 1 )) } asDictionary.
+	#( #( -1 0 '7F|' ) #( 0 -1 'FL-' ) #( 0 1 'J7-' ) #( 1 0 'LJ|' ) )
+		do: [ :direction |
+			tRow := row + direction first.
+			tCol := col + direction second.
+			((tRow between: 1 and: array size) and: [
+				 (tCol between: 1 and: (array at: tRow) size) and: [
+					 (direction third indexOf: ((array at: tRow) at: tCol)) > 0 ] ])
+				ifTrue: [
+					self halt.
+					(array at: row) at: col put: nil.
+					count := 1.
+					mRow := direction first.
+					mCol := direction second.
+					[ true ] whileTrue: [
+						| c |
+						c := (array at: tRow) at: tCol.
+						(array at: tRow) at: tCol put: nil.
+						moving
+							at: c
+							ifPresent: [ :move |
+								mRow = 0
+									ifTrue: [
+										mCol := 0.
+										mRow := move first.
+										tRow := tRow + mRow ]
+									ifFalse: [
+										mRow := 0.
+										mCol := move second.
+										tCol := tCol + mCol ] ]
+							ifAbsent: [
+								$| = c ifTrue: [ tRow := tRow + mRow ].
+								$- = c ifTrue: [ tCol := tCol + mCol ] ].
+						count := count + 1.
+						(tRow = row and: [ tCol = col ]) ifTrue: [ ^ count / 2 ] ] ] ]
 ]
