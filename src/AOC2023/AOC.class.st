@@ -311,6 +311,51 @@ AOC class >> day11a: aString expansion: expansion [
 	^ sum
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day13a: aString [
+
+	| pattern total |
+	pattern := OrderedCollection new.
+	total := 0.
+	aString linesDo: [ :line |
+		line isEmpty
+			ifTrue: [
+				total := total + pattern day13a.
+				pattern reset ]
+			ifFalse: [ pattern add: line ] ].
+	total := total + pattern day13a.
+	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day13b: aString [
+
+	| pattern total |
+	pattern := OrderedCollection new.
+	total := 0.
+	aString linesDo: [ :line |
+		line isEmpty
+			ifTrue: [
+				total := total + pattern day13b.
+				pattern reset ]
+			ifFalse: [ pattern add: line ] ].
+	total := total + pattern day13b.
+	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day14a: aString [ 
+	| total |
+	total := 0.
+	aString lines transposed do: [ : col | | rollTo sizePlus1 |
+		rollTo := 1.
+		sizePlus1 := col size + 1.
+		col withIndexDo: [ : each : index |
+			each = $# ifTrue: [ rollTo := index +1 ].
+			each = $O ifTrue: [ total := total + (sizePlus1 - rollTo). rollTo := rollTo + 1 ] ] ].
+	^ total
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |
@@ -427,4 +472,11 @@ AOC >> day10a: aString [
 								$- = c ifTrue: [ tCol := tCol + mCol ] ].
 						count := count + 1.
 						(tRow = row and: [ tCol = col ]) ifTrue: [ ^ count / 2 ] ] ] ]
+]
+
+{ #category : 'AdventOfCode' }
+AOC >> day12a: aString [ 
+	| pattern positions |
+	pattern := aString substrings first.
+	positions := (aString substrings last splitOn: ',') collect: #asNumber
 ]
