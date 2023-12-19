@@ -35,6 +35,14 @@ String >> camelCardValueWithJoker [
 ]
 
 { #category : '*AOC2023' }
+String >> day15a [
+	| total |
+	total := 0.
+	self do: [ : c | total := total + c asInteger * 17 & 255 ].
+	^ total
+]
+
+{ #category : '*AOC2023' }
 String >> getDigitAt: index [
 
 	| c p nums |

@@ -356,6 +356,28 @@ AOC class >> day14a: aString [
 	^ total
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day15a: aString [ 
+	| total |
+	total := 0.
+	aString splitOn: $, do: [: string | total := total + string day15a].
+	^ total
+]
+
+{ #category : 'AdventOfCode' }
+AOC class >> day15b: aString [
+
+	| total boxes |
+	total := 0.
+	boxes := Array new: 256 streamContents: [ : s | 256 timesRepeat: [s nextPut: OrderedDictionary new ]].
+	aString splitOn: $, do: [ :string | | box ss |
+		ss := string splitOn: ((string last = $-) ifTrue: [$-] ifFalse: [$=]).
+		box := boxes at: ss first day15a + 1.
+		string last = $- ifTrue: [ box removeKey: string allButLast ifAbsent:[ ]] ifFalse: [ box at: ss first put: ss last asNumber ]].
+	boxes withIndexDo: [: box : boxI | box withIndexDo: [: slot : slotI | total := total + (boxI * slotI * slot value)]].
+	^ total
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |
