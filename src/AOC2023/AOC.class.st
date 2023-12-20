@@ -378,6 +378,17 @@ AOC class >> day15b: aString [
 	^ total
 ]
 
+{ #category : 'AdventOfCode' }
+AOC class >> day16a: aString [
+self halt.
+	^ (self new
+		   day16a: aString lines
+		   row: 1
+		   col: 1
+		   direction: #east
+		   into: Set new) size
+]
+
 { #category : 'accessing' }
 AOC >> anySpecialsAroundRow: row col: col [ 
 	(1 max: row-1) to: (array size min: row+1) do: [ : r | | rval |
@@ -501,4 +512,84 @@ AOC >> day12a: aString [
 	| pattern positions |
 	pattern := aString substrings first.
 	positions := (aString substrings last splitOn: ',') collect: #asNumber
+]
+
+{ #category : 'AdventOfCode' }
+AOC >> day16a: arr row: row col: col direction: direction into: set [
+
+	| c ns delta directions walked |
+	row < 1 ifTrue: [ ^ set ].
+	row > arr size ifTrue: [ ^ set ].
+	col < 1 ifTrue: [ ^ set ].
+	col > arr first size ifTrue: [ ^ set ].
+	walked := false.
+	c := (arr at: row) at: col.
+	ns := #( north south ) includes: direction.
+	delta := (#( south east ) includes: direction)
+		         ifTrue: [ 1 ]
+		         ifFalse: [ -1 ].
+	(ns and: [ c = $- ]) ifTrue: [
+		walked := true.
+		self
+			day16a: arr
+			row: row
+			col: col + 1
+			direction: #east
+			into: set.
+		self
+			day16a: arr
+			row: row
+			col: col - 1
+			direction: #west
+			into: set ].
+	(ns not and: [ c = $| ]) ifTrue: [
+		walked := true.
+		self
+			day16a: arr
+			row: row + 1
+			col: col
+			direction: #south
+			into: set.
+		self
+			day16a: arr
+			row: row - 1
+			col: col
+			direction: #north
+			into: set ].
+	directions := #( #( north -1 0 ) #( east 0 1 ) #( south 1 0 )
+	                 #( west 0 -1 ) ).
+	c = $/ ifTrue: [
+		| d |
+		d := directions at: (#( east north west south ) indexOf: direction).
+		walked := true.
+		self
+			day16a: arr
+			row: row + d second
+			col: col + d third
+			direction: d first
+			into: set ].
+	c = $\ ifTrue: [
+		| d |
+		d := directions at: (#( west south east north ) indexOf: direction).
+		walked := true.
+		self
+			day16a: arr
+			row: row + d second
+			col: col + d third
+			direction: d first
+			into: set ].
+"	(set includes: row @ col) ifTrue: [ ^ set ]."
+	walked ifFalse: [
+		self
+			day16a: arr
+			row: (ns
+					 ifTrue: [ row + delta ]
+					 ifFalse: [ row ])
+			col: (ns
+					 ifTrue: [ col ]
+					 ifFalse: [ col + delta ])
+			direction: direction
+			into: set ].
+	set add: row @ col.
+	^ set
 ]

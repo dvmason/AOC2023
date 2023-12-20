@@ -6489,6 +6489,1668 @@ AOCTest >> data15 [
 	^ 'lqgpv=5,bvv=1,sls-,ttn=2,gvh=3,bgj-,zg-,sv-,fqz=7,ldb-,gvzx-,hh-,vbk=1,rnhrk=9,zvt-,zxk-,pvjz-,vx=7,rzq=1,snf-,zgk=9,pf=9,rmgxs=3,pjdrpt-,tlt-,vn-,tvr-,mjqhbk=6,shm-,klmlv=4,crh-,fjf=6,dfgz-,xhsp=2,bq=3,grdn=8,rz-,tbl=2,tv=1,rsvn=8,sj=6,nbds=5,xdj=7,hs-,bxk=5,dz-,tbtqj=3,kr-,lkqp=8,pf=9,nqj=4,sjxc-,nxk-,hls-,njgzf-,rtg=3,djrhq-,nm=4,zpm-,zqm=2,cp=9,bz-,tz=5,tx-,sjxc=9,tt-,qf=4,hf-,hkj=3,mjs=7,vsxfqp=6,tlf-,gfqclt=6,lnvkl=9,ptk-,cb-,lxc-,qx=9,ggq-,scq=4,kv=4,ctm=1,cs=8,fsxrqj-,ptbr-,prf=8,vx-,hjm=1,tkd-,ts=3,bnh=5,crg=4,ch-,xqbhnt=2,cx=3,fjf-,hkj-,fpx=6,phxjs-,tcmn-,hlcpzb-,nms-,ftk-,gfq=2,zxk=9,njgzf=5,pf-,pt-,jl=6,rr-,pgz-,jfsfp=3,kxf=3,mdqz-,rfl=6,xb-,bmjb-,gdld-,qtp=8,kbp-,klmlv=1,vzt=2,mm=8,gdld=5,cltgr-,gb=3,dp=1,sjxc-,zgk-,bvv-,nnpq-,qdsxq=5,bk-,nc-,tkd-,xrbt=4,lccj-,fdgp-,tvr-,rnhrk=9,jqc-,vdjz-,jqxl=4,nm=1,bnh=1,nm=8,pd-,fnd=1,njgzf=3,bmhf=3,hkj-,bk-,drsx=9,hh-,zqjprz-,vdsn-,ldb-,gpjnx-,xsg=8,sqq-,fl=8,nc-,gfq-,ft-,rt-,zqm=1,bpc-,prf-,pt=2,qglt=9,grs-,vkvm-,nsvgj-,tvr=2,fjf=5,vcv=9,mkk=6,ddpml-,rhd=1,jmb=8,lr=3,kvrfm-,gn=2,vd-,vcs=2,zxk-,tftg-,tbm-,mdqz-,vbk=3,hgb=9,nl=1,bhg=4,crg-,pvz-,ptkrnb-,bmmgsc-,tlt-,xxsfxb=8,bhg=1,bq-,hr-,cx-,mm=6,sjq-,dcp-,bfc=4,fbf=2,shqrb-,kbp=2,pvj=7,pjsvd-,bgd-,xsg-,bnjjz-,plfn-,hgh=1,vzt=3,sf=5,dfgz=4,czc=2,mjqhbk=3,sq-,pfvqp=9,ffzvk-,gpjnx=9,thp-,ktt-,vpxxc=4,crg=3,zqnp-,lqdd-,zqjprz=9,bj=8,cgln=9,fj-,qb-,kxf=4,cx=7,fr-,qmd=8,pt-,qfp=6,hm=3,fdz-,dzlvpk-,lh-,bzb=4,rmkb=7,tmtnb-,kmtk-,lxc=8,nrmt-,rsvn=7,zhzz-,jrl=1,gvzx-,slc=9,zgm=7,qzs-,nqj-,qgz-,nj-,szx=3,md-,ht-,rdm=8,vsxfqp=9,vkq=2,nm-,nzpbn=3,hjm=6,mkk-,mbrs-,mb=7,gnj-,xqbhnt-,kbg=5,qmd=5,pbpb-,nn=3,ptbr=1,xkd-,gd-,mr=1,hlcpzb-,qf=3,tcmn-,jsj-,lp=3,cpq=1,cc-,tms-,vdsn=6,rfl-,cs=9,lt-,pq-,cx-,dtfj=1,cg=9,lt-,qtl-,xdj-,cgtd=2,hsz=5,ds=6,vd=3,dl=1,vn=8,nkb=3,mdqz=5,vpj=3,kbg-,cvjr=8,bfbt-,flg=6,snt-,tdfx-,cgtd-,tdz=3,hq=5,pnrk=2,jclfth-,vzt=4,bmmgsc-,vbsrn-,hs=6,tqv-,nk-,dxts-,ch=6,cz-,qpm-,vmnt=4,fjrrm-,vkf=5,tbmr=1,hsz-,zxk=6,crg-,pln-,vpxxc=3,hjm-,lf-,tc-,fnd-,nnpq=9,vpcz=8,hf=1,fnd-,llr-,nqmq-,hjl-,zc=8,gn=1,zpm-,zcjx=4,kr-,lj=1,kvv=2,fbf=3,tmtnb-,nk-,czc=1,dtfj-,scq-,jxj-,bxk=8,jx=3,zftx-,njgzf=3,vmnt-,xmn-,dsj-,bfbt-,pjdrpt=1,bt-,czc-,pvz=5,fx-,zhzz-,mbrs=8,pmkqk-,jmtr-,xhsp-,dv-,fj=8,nxk-,vcv-,nj-,bmn-,gfgk=7,bb-,csmch-,dkvfsp-,scq=7,xxsfxb=7,mlzp=9,qqt-,rnhrk-,rnhrk=1,dnrx-,ctm-,zhv=9,grdn=9,vk-,sf=2,ds=8,tp-,dthz-,cx-,hlc-,tftg=4,vd-,cz=8,nk=6,nv-,tp-,tvlqfg=8,cgl-,ptkrnb=7,sx-,rfzs-,lccj-,ldb=3,lxc-,cgln-,gjx=7,tgzpz=4,zpm-,lq-,sxht-,gsp=8,fqz-,fj-,fjrrm=6,rmkb=5,hr-,nbds-,lfjj-,tkd-,hjl=9,gpjnx-,rr-,xtvm-,kvv-,hpp-,dgbzr=7,sdrk-,th-,hvvmc=8,nv-,prf=8,cf-,kv=4,bpc=5,vpj-,bxn-,flg=4,cs-,nms=4,gmpj-,snf-,pbpb-,vjjfgc=5,gtd-,cz-,dj=3,sv-,nqg-,rmkb-,zhv-,llr-,gdld=7,fpx-,sgh-,kfz-,mb-,dscl-,mhrvl=2,bmhf=7,bq-,dt=7,hm=1,sls-,rzl=7,mvd=3,qfh-,rc-,pq-,gfqclt=3,kk=8,ft=2,qglt=1,gfgk-,kfz-,kxf-,hfb-,xf=5,kmtk-,plfn=9,dgz-,zhpfgc=9,ksh=8,fhzj=8,rnhrk=6,xf=2,vfb=1,vmnt=8,lc=9,jz=9,cbttmk-,xg-,kzbcjm-,gjx=1,slc-,hjl-,tbmr=5,cltgr-,fhzj-,lf=6,dz-,ds-,pjdrpt-,lbjp=7,bzfvl=9,tbtqj=7,qpm=6,pbpb-,cnbf-,tt-,mkvv-,cxlhd-,htk-,xg-,jb=3,tdfx-,jmtr=4,tbtqj=1,sjxc-,bzfvl=7,gfgk=5,cp-,klmlv=8,fbm-,kp-,gh-,lvx=1,xc-,kr=2,cbttmk-,ktt-,kdb=3,jfsfp-,dfgz-,pbpb=7,rfl-,xg=3,pnrk-,flk-,dqz=8,thp-,kbg=9,df=8,vkvm-,kxf-,mb=5,pbpb-,sxht-,vnqqfc-,hnz=4,pqrg-,kzbcjm-,tq=7,bb=9,xc-,xkd=8,xmn-,cgln=8,vdsn=3,bvv=8,dmmk-,shf=8,pfvqp=5,qd=4,zftx-,rfl-,tkd-,cpn=2,ktt-,nkt-,nnpq-,mkk=7,dmmk=3,nh-,thp=2,rr=2,br-,zt-,lbv=3,dl-,lj=7,rfzs=3,vft=8,bt=9,kdm=3,ptk=1,dqz-,hl=9,xt=9,qx-,fjf=2,nkp=3,ksh=5,nl=4,gnj-,rr=9,pkzff-,xp=8,djrhq=8,njgzf-,np-,bk=5,sxht=9,gvh=5,bsflq=1,fbm=8,ch-,zvt=2,fx=2,cg-,pjdrpt=8,np=4,gh=5,mjs-,dthz=1,jxj-,rdm=7,cf-,rf-,mkd=3,fp=1,sls-,nl-,rzl-,rpmz-,vpxxc-,cx-,lkqp=9,th=4,kg-,cx=6,hr=9,cvfr=7,lnvkl=2,qpm-,np=1,sv-,hnm=7,bmhf-,cq=1,qf-,hmfc=6,nmh=9,qzs=9,tcmn=7,nrmt-,bfdd=8,mr-,grk-,fjf=8,jrl=1,gfqclt=7,llr-,rbs=1,br=3,ts-,gvzx-,snf-,hm-,zgb=9,lkqp=3,tx-,tcmn-,ggq=7,vqzj=3,hlcpzb=3,dkn=6,rtg=2,cgl=4,hs-,zqjprz=6,dxts-,zsq-,lrc=6,fl=7,qgz-,nv=1,jmtr-,vmnt=3,ldb=8,gg-,mjqhbk=3,mdx-,hfb-,nms-,ptkrnb-,grdn=3,mlzp-,vxf-,sqq-,ptkrnb=4,qfh=5,ldc=1,tdz=5,vqzj-,dnrx=9,bnjjz=1,hls=3,cxlhd=1,kxf-,nq-,zg=5,vkf=2,gvh=5,gsp-,cs-,qqt-,nj-,hgb-,cbttmk=2,sgh=9,jqxl-,kxs=1,jx=9,pt-,rpmz-,grk-,xsg=6,dj=7,pjr=2,kvrfm=5,plm-,lccj-,zcjx=2,tbmr=1,slc=6,pb-,nm-,ffzvk=1,tc-,rzh-,sj=3,qhs-,kdb=1,lt-,hls-,cx=9,qcc=1,nc-,rdfr=1,tvlqfg-,cz=2,bpc=7,bmn=4,zj=5,cgln-,mvd-,kp=4,gt=1,djrhq=8,lc-,tz=3,vpxxc=3,dmmk=1,ldb=8,plfn=5,ppzh-,xdg-,drsx=1,hsmkv-,vpj=7,hmfc=1,fpm=3,qzs=9,pv-,zr-,fpm-,cpq=7,kdm-,ttn=5,dmq=3,qf=6,fmqbk-,zgm=5,gtd-,nh-,szx-,rp-,vmnt-,llr=7,vdsn=5,qglt-,bvv=9,ps-,hgh-,hm-,bxk-,bgd=9,zrbc-,lr=1,kjls=8,jfd=8,ksh=1,vft=2,vdsn-,lkqp-,tdz-,ms-,cb-,rc-,gb=5,dt=1,hgh=5,sq=5,grdn-,llr-,lp=9,rt-,qb-,rc=9,nq=4,tqv=2,zf=9,sdrk-,cpn-,nbc-,zh=1,sls-,fdgp=9,xxsfxb-,vpj-,hs=2,bmn-,ch-,zqm-,cpq=9,tp-,qtp-,lf-,fgf-,nk=7,gg=9,qpm-,hb-,ptkrnb=3,lf=1,bmjb=5,rnhrk-,dp-,rt=9,xq-,tftg=9,dsj=3,jb=8,ptk-,fjrrm-,fpx-,ldb-,qb-,ptk=1,zhzz=9,gkcr=6,grs=4,dlt-,tx=9,mn=7,vbsrn-,xb=7,bmmgsc-,qzs=5,pq=4,vx-,zqm-,cs=4,sjcf=6,dvq-,sp=5,gg=3,rzh=2,qtl-,vmnt=3,hjm-,hr-,cp=4,jl-,pjr=3,zpm=2,pkzff=1,qmd=6,zpm=6,md=2,tdf=4,tcmn=3,vdpj=6,vpcz-,kvv-,hl-,bhg-,sjxc-,lc=1,hsz=2,flg-,shm-,tmtnb-,xkd=1,nk=8,plm-,vdpj-,pbpb-,tz=8,lxc-,grdn=1,qr=3,npcxkn-,zh=8,tv=9,ptk-,rmkb=1,xdj=9,snf-,fl=1,lj-,kk=5,gz=5,tgzpz=8,fdgp-,mdqz-,crg-,md-,pbpb=1,bhg=9,grk=4,pln=6,vsxfqp=4,cltgr-,cgln-,gfq-,pjr=1,bmmgsc-,mh-,dmtdl=6,rz=9,jmtr=6,czc-,cgln=5,dk-,mm=5,cvfr=4,dlt-,mxc=5,sqq=8,bhg=9,mkd-,lzn-,lf-,kdb=3,fdtl-,vb-,njgzf=9,vk=1,nbc=8,lnvkl=1,dl-,lzn-,cvfr-,flg=1,nsvgj=6,sjq=1,vdsn-,nst=7,ppzh-,mv-,tkx-,rf-,vx-,zxvqk=7,tcmn-,mxc=5,ffzvk=3,cl-,zqbr-,fnd=2,pbpb=6,dsj=4,pl=1,hs-,pkz-,qkfp-,plfn=5,lrc-,gvh-,thm=6,rzq-,nzc=1,dfgz-,nkb=8,zqnp=1,sjq-,bk-,fjmc=4,gtd=9,ppzh-,vx=2,dv-,lq-,rdm=8,bhg-,lq-,xqbhnt-,slc=9,gdld-,dlt=3,vss=2,qtl=8,rf-,rkv-,zt-,fmqbk-,tvttkp-,thcs-,vdpj-,bnh=5,gxpr-,nl=5,vxf=3,gt=6,nm-,tvr=6,qf-,bfbt-,xq-,snt-,pjr=6,hnm-,mvd=3,lzn=3,dh=7,llr=1,kg=8,bzb=8,pgz=4,cxlhd=3,thcs=9,cvfr-,xb=6,dl-,tmtnb-,kk-,gmpj-,bk-,tqv-,zjm=6,vk=1,kbg-,hb=4,hsz=1,tvr=9,zvt-,ptbr=3,pjl=7,dthz=2,vd-,bj=6,cfb=7,vcs-,dj-,zsq=5,cv-,cgtd=1,nqmq-,prs-,vnqqfc=7,tvlqfg-,dj-,dscl=5,xd=6,hmfc=2,pf=9,hjm=6,mcq-,vpj=5,mkvv=9,rfzs-,dz=2,nmh-,nh=3,pv-,jl-,ptbr=6,fsc=2,sjxc=6,rkv=9,dthz-,zqjprz=8,zqm-,ps-,xf-,kkgt-,fdz-,bb-,dp=3,cp-,pvsb-,bfc=6,bfdd=6,fjf=9,dz-,tdz=2,dl-,xf=5,zlms-,fsxrqj=5,jfsfp=4,kbp=9,bxk=9,thcs=9,nc-,sxht=1,zh=9,jsj=6,jx-,md-,vzt=9,nk=1,kdm=3,fdtl-,pjsvd=6,nkt-,fsc-,vzt=2,vbk-,bhg-,bt=1,ms=4,zqm-,cl=9,hsz=8,cb-,qx=8,dfgz=4,zg-,xg=4,pd=3,zlms=2,ptbr-,pvz-,lj=2,rc-,qfh=8,sh-,jfsfp=5,kbp-,np-,kjls-,cq-,bsflq-,hjm-,bmmgsc-,njgzf-,prs-,cpq-,gpjnx-,pb=8,cbsmlt=4,dsj=1,vkvm=9,prs=1,crh=5,dgbzr-,hl-,kr-,hfb-,gkcr=7,sh-,sljtvf=4,tqv-,mkvv-,pbpb=3,vd=7,zcjx=9,pkz=9,dcp-,mkvv=8,tdz-,xtvm=2,rnhrk-,vqzj-,sq=8,vqzj=6,pjr-,hl=2,rr-,grdn-,hm=6,lccj=1,cx-,dthz-,gb-,cf=1,bfbt=5,qb=8,pnrk=4,zgm=5,nmh=4,qqt=5,lqgpv=5,btncfk-,zhv-,grk=2,kxf-,vz-,dp=2,qfp=3,kmlft=8,gz=3,gz-,jrl-,zlms-,pjr=9,dlt=5,mjqhbk=1,fpx=6,ptbr-,slc=6,gmpj=1,sljtvf-,zpm=8,vcs=4,tmtnb-,bq=1,ctm=5,zsq-,pkc=8,tp-,kmtk=3,ggq=4,nst-,vfb=3,zhzz-,vz=9,kmtk=7,fjmc-,ttn-,xdk-,lzn=5,qd=8,lrc=9,rsvn=7,dz-,sdm-,zr-,szx=3,nkp=7,dmtdl-,hgb-,hfb-,xt=5,mlzp-,pfvqp=4,nqj=1,fj-,prs=2,ddpml=8,zgk-,fx=9,vpcz=1,bnh-,flg-,rz=4,vd-,ldb=9,tbm-,zrbc-,kp-,gn=6,dbblf-,kfz=1,fgf=6,kdb-,jz=3,kkgt=1,nrmt=3,vcs-,df=2,bxk=5,cx-,lrc-,bnh=7,vzt-,ddpml-,xxsfxb-,pkz-,rr=3,lfjj-,lkqp-,dcp-,nmh=2,qpm-,tdz-,jz=8,vpcz-,nl-,xxsfxb=4,gd=9,bmn=4,ftk=1,rmkb=8,vq-,dscl=3,lr-,ldc-,dthz-,tq=5,kp=9,cf-,vxf-,ptkrnb=9,sdrk=4,bmjb-,zg-,dj=9,lqgpv-,vmnt-,qpm=5,bfdd=6,qfh-,fjf-,dgz=5,zr=8,rmgxs-,rc=3,xdk-,lqgpv=9,kxf-,hv-,md=7,lj=3,nzpbn=3,gpttz-,vtmxq-,hd-,bmmgsc=3,zxk-,hp-,cvjr-,fp=1,hsz=4,mvd=6,thm-,xp-,xsg=9,sgh=5,lj-,lfzf=9,dkz-,ch=1,zhv=7,jsj=9,vpxxc-,qzs=6,jmtr-,kvrfm-,rkv-,sv=6,zhpfgc-,zhv=9,qpm-,kvv=1,dqz=1,lxc=8,qcc=5,vft-,thm=2,hkj-,jfd-,bhg-,dfv-,tx=4,xhsp-,ddpml=6,vsxfqp-,thcs=1,phxjs-,gz-,xqbhnt=8,cpq-,phxjs=7,nkb=3,cf-,kr-,jfd=2,nzc-,vq=8,ch-,hf=5,bmmgsc-,rzl=7,sf-,fhzj=4,nbds-,cx=7,zr=6,pq-,bfdd-,fmqbk-,hl=6,skpk=9,bxk=2,rzq=7,qq-,pgz=9,rdfr=8,rrnz-,qr=3,vkvm=5,gfqclt-,tgzpz-,cs=1,snf-,mm=1,bvv=5,gs=9,fsc-,np=4,cbttmk-,kxf-,ft=6,nkb-,mkvv-,lccj=2,lr-,shm-,kh=4,qcc-,zqbr-,ssz=1,fdtl-,sq-,cpq=2,tbtqj=1,pvz=1,xc=4,bmjb-,lkqp=5,rzl=9,hl=3,cg-,fjrrm=8,xsg-,ffzvk-,qhs=7,jfsfp=7,hgh=8,bsflq-,vsmvd-,tnkx-,fr=5,rmkb=7,rt=9,cl-,ddpml-,bk-,prs=7,kg=1,vcs-,zrbc-,gz=5,hglng-,nn=3,sf-,vbk=5,ksh-,kdb-,zxk-,xkd=6,vtmxq=8,sjxc=1,cbttmk-,gkcr=7,bpc=4,tvttkp-,fjmc-,kg-,nh-,crg-,zhzz-,hmfc-,pjdrpt=3,ldb-,dlt-,xdj=2,mjqhbk-,rr=6,qd-,tvttkp=7,gd-,kvrfm-,fpm-,dh-,sdm=7,zg-,rsg=8,xqbhnt-,bj=7,zpm-,dkz=5,crh-,slc-,cg=7,pbpb=6,dnrx=1,sjq=3,fsxrqj-,znbpk-,jsj=1,hkj=5,hkj=1,lbjp-,gs=4,mn-,tkd=6,zt=8,dkz-,mkk-,tpnf-,rr-,vbsrn=5,qcc-,prs-,mjs=4,fbf-,rr-,qzs-,jfd=6,sxht=9,rt-,qpm-,rmlm=4,vsxfqp=9,szx=7,zxk=9,hf-,mdqz=8,kk-,qdsxq-,br-,thp-,nms-,zhpfgc=1,lq=3,vq=5,kbg-,pgz-,mjqhbk-,xtvm=4,hlc=4,mv-,nl=1,dtfj-,mvd=3,jqxl-,th=1,qcc=6,pjdrpt=5,qgz-,dp=5,rp=4,xvz-,tgzpz=1,qcc=1,cgtd=5,hmfc-,qgz=1,lfzf=7,dsj-,jsj=8,vnqqfc-,bj-,bz-,gfq-,pkzff=8,xkd-,sdm-,kmlft-,dlt=7,qr-,hkj-,tlf=9,sv-,vpj-,snf-,cvfr-,qd-,pkc-,kv-,nsvgj-,qd-,kfz-,rzl=6,vdsn=8,tlf=4,kp=9,vcs-,nkb=5,dthz=4,cfb-,bnh=9,pbpb-,qcc=7,dj-,zgk=1,np-,rpmz=1,ffsn-,nkb=2,lr=5,lbv-,qcc=3,rpmz=3,sls=1,jmb=3,rzl=7,rfs=8,nqmq=2,bsflq-,vpcz=2,nm-,lbjp-,pvz-,lf=3,bq-,jx=6,qhs=8,fsc-,vpj=6,gjx-,bmhf=6,gs-,nrmt-,dxts=3,cg=3,dkn-,pln-,rzq-,xf-,dfv-,ffzvk=9,ptkrnb=5,jmtr=2,gnj-,zhv=4,sdrk-,fdgp=1,tdf=6,sdm=9,plfn-,bfbt-,fp=1,nv=7,cmb-,rsg-,bgd-,kxf=1,pq-,fqz-,sdrk-,lq=3,vmnt-,nms-,cx-,fjrrm-,hls=3,qmd-,hlcpzb-,bsflq=8,bpc=8,nbc=4,fjmc-,fjf=7,vq-,lkqp-,xhsp=3,vdsn=2,vpcz=3,zgm-,kjls=2,kbp-,ppzh-,qgz-,xhsp=7,lvx-,qcc=5,xhsp=6,nl-,js=2,hnm-,qqt-,znbpk-,fdtl-,hr=4,snt-,xg=6,ffsn-,fl-,dtfj-,tp-,njz=1,scq=4,prs=6,hpp-,mlzp-,fp-,ht-,vdjz=4,sh=5,fbf-,lxc-,dz-,qhs=6,sdrk-,tt-,lkqp=3,qzs=2,fjf-,hmfc-,bfbt=5,dgbzr=9,pjsvd=6,tp=9,qhs-,lbjp=8,zvt-,bnl-,cpn=1,qdsxq=5,vz=1,gt-,slc-,bmjb-,pgz-,nh=1,ptbr-,tqv-,md=3,zqjprz=2,jx=2,rnhrk=4,cpn=9,ftk-,zh-,jmtr-,mh-,mn-,dzlvpk=4,pfvqp-,rfl-,tdjzd-,fl-,md-,thcs=5,kk=1,qmd-,cb=6,bj=9,xdg=7,gmpj=6,nkb=4,xb=3,vsmvd=5,xc=5,xkd=1,kvv-,cltgr-,mcq-,hvvmc-,jl=6,mjs-,vdpj=3,gkcr-,rfzs-,vcs-,zhzz=8,kk=4,nj-,dtfj=8,mm-,pq=6,dbblf-,dqz=6,ftk-,qgz-,jqc=6,lkqp=5,fl-,jrl-,dcp=5,hq=6,cbsmlt=8,dzlvpk=8,vsmvd=1,thp-,lj=6,nq=3,nkp-,mdx-,sx=4,vb=8,tx=7,xtvm-,kjls-,zgk-,rkv=3,pvsb=5,tdfx=6,rp=4,zftx-,pv=3,cz=2,nq-,rdm=8,tkx=8,gkcr-,bb-,vpcz-,tv-,df-,mvd=2,rsvn-,ctm=4,rr=4,snt=4,xxsfxb=9,bz-,qf=9,kk-,lr-,jx-,kzbcjm-,pkc-,pvsb-,pjl-,pkz-,cp-,drsx-,rkv=2,zh=6,bmmv=5,gvzx-,xqbhnt-,cq=7,njz=4,pjl-,zr-,sx=6,dqz-,xc-,hjm=8,tpnf=7,mkvv-,jz-,rfl-,nzpbn-,fdz-,dqz-,zqjprz=1,mjqhbk-,fdgp-,dk=7,jmb=4,nqg=4,vft-,ch-,pvjz=7,bfbt=4,hgh-,nrmt-,cxlhd=2,fdtl=7,qgzmb-,xt-,hv=7,shf=6,dp-,rrnz-,nxk=1,pkc=5,nzc=1,zxk=6,ldb-,nzpbn=1,tbtqj-,kjls-,kxf-,hf=2,vqzj-,rp-,cm=3,rz=8,zjm-,nbds-,pgz-,lr-,prf=6,mdqz-,mh=2,zhpfgc-,prf=7,bj-,gdld-,mkk=4,bgd-,dzlvpk=2,kk=3,sv=2,cf-,nsvgj-,hpp=8,sq=2,nqg=1,vqzj=7,fnd=8,qgz=6,skpk-,vsmvd-,dfgz-,mlzp=4,ppzh-,ptkrnb=3,jfd-,nl-,vbk=2,rtg-,gvzx=8,lzn-,bnjjz-,dp-,dscl=3,mbrs=4,tms=7,jrl=4,kzbcjm=5,hls=4,gd-,vdsn-,dfv-,ttn=6,bsflq=1,lt=8,cbttmk-,ptk=5,tdz-,xp-,kvrfm=6,lbv-,dxts=6,zpm=3,hv-,zhv-,pmkqk-,dt=1,tv-,qcc-,gjx-,qmd-,tvttkp-,jl=6,pqrg=5,rsg-,nbc-,gbvf-,cm-,fl-,tvlqfg-,kjls-,rnhrk=1,hjm-,cpn=1,tdjzd-,dthz-,dgbzr-,ptbr=9,gmpj=7,tlf=4,thp-,mb-,gpjnx-,scq-,vsmvd=3,ckss-,tlf-,lzn-,hr=2,xkd-,vk-,rpmz-,rzh-,rtg-,lkqp-,prf=6,dkvfsp-,dgz-,hb=3,lbv=9,fsxrqj=2,nrmt=6,plm-,nzpbn=5,ts-,zf=8,gs=1,lc-,tv=5,dcp-,shf=4,lfjj=5,sjcf-,gfqclt-,pjsvd-,nk=9,rsg-,tftg-,zgb-,vd=2,kh=2,bfdd-,pqrg=1,xg=1,fjmc-,ksh-,dmq-,ft=5,hnm=8,rdfr-,pv=7,sf-,gtd=9,dthz=5,zhzz-,pbpb=7,njz=2,shm=3,pbpb=6,rzq=9,gnj=8,rrnz-,csmch-,nqmq=9,tnkx-,ppzh=1,rsg-,rmlm-,sdrk-,sjq=5,gmpj-,hglng=2,kmlft=7,nm-,hgh-,pkzff=2,vdsn=8,qhs-,vsxfqp-,xd-,fjrrm=2,mkvv=5,bmjb-,tvttkp-,lzn=4,xdg-,hsmkv=7,cmb-,fp=6,sdm=9,ht=9,jx-,vsxfqp=3,dt=1,lvx=6,klmlv=5,cg=4,tdjzd-,szx=3,sv=1,qglt-,vdsn=4,vn-,pt-,zqnp-,nbc=4,zvt-,grdn-,gs=8,vfb-,znbpk-,plfn-,xp=3,vpxxc=8,bmmv-,flg-,zrbc-,nbds-,ssz-,xf=4,lr-,rhd-,cpn=1,kbp=7,bq=7,rmkb-,sjcf-,pf=7,mqjk=5,dl-,kg=2,gfq-,jp=5,jrl=2,fjmc-,lqgpv-,hmfc=2,thp-,qfh=9,hvvmc=1,htk=2,gz-,gbvf-,bnjjz-,ts=2,jrl-,tv-,cs-,tt-,dkvfsp=9,mlzp=2,tmtnb=1,gbvf=2,lq-,zgk-,ldb=8,gt=2,zhzz=9,cbttmk=7,klmlv=6,dxts=9,thm-,xg-,qr=5,bnjjz-,dkvfsp-,ks=5,hls=4,klmlv=9,nbc=8,pjl-,ktt=6,gpjnx=9,cs=4,kvrfm-,njgzf=9,bmjb-,kjls=8,tp=5,ms=6,cx=4,gvzx=4,nms-,mr=7,hvvmc-,thp-,sqq-,dthz-,djrhq-,ptkrnb=4,gnj-,bnh=6,hpp-,nj-,cs=7,qb-,vz=8,tms=4,bsflq=5,tdfx=5,grk=7,tmtnb=1,fmqbk=3,tqv=8,dnrx=7,gt=6,bgj=9,nrmt-,kbg=5,cv-,zsq=8,nxk=8,csmch-,fl-,njgzf-,dbblf=6,vq=9,cc-,hq-,sjcf=7,cpq=3,zc=6,xvz=4,dqz-,fdgp=2,sjcf=6,ts=3,gfq=8,mxc=3,kmlft-,gnj-,sj=8,rdfr-,dfv=2,lh=2,hp-,bxn-,nnpq=5,hf=7,qgzmb-,tt=9,rdm=1,bfbt=7,cbsmlt=5,lkqp-,tb-,lbv=3,tc-,pbpb=7,hpp=8,zt-,xvz-,rzh-,pfvqp-,dj=8,gsp-,hglng=1,ffsn-,kdm=4,fbf-,gbvf-,bfc-,sdm-,pkz=5,hgb-,tdjzd-,pkz=3,fnd-,nq=3,gvzx=4,hlcpzb-,lrc=1,ttn=6,gnj-,ds=1,tms=9,gdld=2,znbpk-,zsq=1,rmlm-,rpmz-,fjmc=4,jclfth-,dcp=9,ddpml-,vkf=6,njz=2,hp=1,hs-,jp=9,npcxkn=4,fx=7,lzn=1,rf-,cbttmk=9,tt-,jb=9,tpnf=4,vpxxc-,hh=3,gnj=5,dcp-,qk=9,bnh=3,bk=5,nxk=6,fnd=4,zjm-,tc-,tcmn-,npcxkn=1,xdg=1,nj=9,rzl=9,dkz=8,hgb-,shqrb=4,fqz-,zxvqk-,xqbhnt-,gsp-,pvsb=7,md=7,hgb-,rtg=3,gbvf=9,rkv=5,rnhrk-,plm-,sv-,rf=2,hfb=2,fjmc-,hnm=5,zgb-,njz=4,cfb=5,hlc=4,jrl-,cs=3,zjm-,zqm=9,pjr=1,bzb=4,ggq=8,cz-,sljtvf-,vkq-,pjdrpt-,fpm=3,grk=6,dkz=3,lqdd=1,hgb=2,dvq=3,cltgr-,xf=3,lkqp=6,szx=7,pkzff-,rf-,dkz-,tkd-,vmnt=5,dmq=3,zjm-,nkt=7,tv-,zr=1,zc=7,lvx-,kxs-,pq=3,lc=3,sjxc=2,mlzp-,mdqz=2,mhrvl-,ms-,gfqclt=4,kv-,bpc-,gbvf-,js=9,xdk=6,hmfc=4,szx=4,mb-,gn=8,prf=4,bxk=5,dmmk=6,cg=5,bfc-,fjmc-,gvzx=6,tnkx=9,qq-,fbf=2,kzbcjm-,dkvfsp-,fnd-,vz=5,xsg=4,fpx-,jmtr=2,cl-,cx=1,qfp-,dgz=2,xp=9,hd-,lqgpv-,hjm-,th-,mbrs-,pjr=5,nn-,nj-,nst=6,rhd=2,fdz=6,ftk=6,qd-,hglng-,tpnf=7,xdk=1,sj=5,kg-,mh=8,ggq=4,tlf-,xp-,bxn-,xrbt-,qcc=5,plm=4,mhrvl-,dv-,hvvmc-,fpx-,lbv=4,ksh=6,zxk-,zftx=5,dj=5,mb-,dh=5,xp=5,xrbt=8,hkj=6,ks-,rhd-,kr=6,ssz=5,jsj-,jz=2,thcs-,zc=3,rzq=8,tlf=2,pl=7,mcq-,lkqp-,tt-,mlzp-,bfdd-,dq-,plfn=4,szx=6,tz-,df-,jrl=2,pkz-,zhpfgc-,mvd=3,sls=5,nbds=6,hb=5,bmhf-,zhzz-,htk=6,rkv-,tcmn-,sdm-,prs=4,mlzp-,sgh-,rrnz=9,nh-,gpjnx=3,qdsxq=6,ttn-,qglt-,cvjr=3,nms-,gjx-,zjm-,rsg-,fdz-,tq=5,kbp-,lj-,tbtqj=9,kdb=7,vbsrn-,kp=1,zhpfgc=6,jrl-,pbpb=7,rzq=8,lbv-,ds=6,tq-,rmlm=7,cx-,pf-,pq=8,hd-,ds=6,ptbr=9,bxn=7,rt-,flg-,hpp=7,slc=5,dbblf=6,tv=1,hv-,bxk=6,pkc=3,qfp-,mdqz-,nzc-,lfjj-,cl-,lbjp-,pjsvd=5,lqdd-,dmtdl-,nc-,vtmxq=8,jclfth=9,hglng=9,ft-,vtmxq=3,rtg-,plm-,fjmc-,lccj=5,zhzz-,fmqbk-,bt=8,cpq-,lxc=3,fdgp=2,snt-,tlt=5,kk-,pf-,nms-,dkz=8,phxjs=1,nqj=9,cmb=3,jx-,bgd-,gbvf=3,xtvm=9,xf-,bsflq-,vx=4,znbpk-,ks-,lf=3,dqz=9,sx-,ldb-,vdsn=9,gxpr-,vkf=5,tdf-,hm=4,bzb=7,gddbz=1,kk-,rsvn=5,dq=3,bz-,gddbz=4,snt-,tdjzd-,hsz-,hkj-,zxk=1,pqrg-,nrmt-,lfjj-,lzn=3,tftg-,xb=1,vpxxc=2,ks-,xg-,htk=3,rdfr=3,rr=1,pvsb=8,sjxc-,mbrs=7,sjxc=4,rzl-,gz=2,zc-,cl-,pbpb-,gdld-,zh=2,hlc-,vkf=4,dfv=4,hnm-,klmlv-,kv-,tz=2,vsmvd-,nv-,czc=3,vft-,pmkqk-,rz-,qgz=7,gpjnx=9,jmb-,lbjp=8,sp-,cpn=8,shf-,rmkb=4,plm-,dcp-,cq=1,pq-,ps-,jqxl=5,cgtd=1,hsmkv=6,md-,jclfth=5,cnbf=7,xvz=3,pkz=1,qfp=4,zpm=6,kg-,bhg-,xdj-,dtfj=5,hm-,gvh=9,ldc=6,vtmxq-,fsxrqj=2,pfvqp-,fp=3,mhrvl-,mh-,hs-,npcxkn=6,plm-,kxs=3,dvq-,lqdd-,flk-,js-,vkf-,vtmxq-,zgm=5,tms=6,bfc-,qpm-,pf=4,ts-,mdx-,kvrfm-,tlf-,hpp-,kv-,vkvm=7,pln-,dgz-,mv=4,vpxxc-,grk=2,mhrvl-,dt=5,ht=7,dq-,hh-,jmtr-,cbttmk=1,xc-,ts-,prf=4,zhzz=8,hmfc=6,lf-,dbblf-,czc=2,sp=8,cvjr=1,dkn-,kvv=8,nm=7,rzh=2,znbpk-,th=5,tlf=4,bk-,vpj-,ps-,ftk-,cgtd=3,npcxkn-,sls=2,scq-,nmh-,gmpj-,pbpb-,gkcr=5,lvx-,kxf=8,hmfc-,kbp-,nst=8,jrl-,qf=6,lxc-,fdz-,ffsn=9,gfgk-,nkb=2,djrhq=3,dtfj-,rfs-,nnpq-,hm-,thp-,ptkrnb=1,kk-,fjmc=3,hlcpzb-,ch=1,cc=4,bz-,tv-,hr-,vdsn=3,ctm=2,pvj-,shqrb-,vsmvd-,jqxl=2,vss-,pkc-,fjmc-,fdgp-,nqmq=7,lqdd=6,tnkx=1,shf=9,vzt-,rzh=2,ts-,qb-,tms=2,tvlqfg-,zqm-,cmb-,dgbzr-,qkfp=4,fbm-,zqm-,mhrvl-,ht-,bzfvl-,vbsrn=2,xvz=9,crh-,btncfk=7,dl-,dthz-,lfzf=8,bxn-,pkz-,vjjfgc-,shqrb=2,xrbt-,bk-,gkcr=5,vss=7,mm-,dthz=8,kxs-,qf-,dmq=7,gjx=7,gbvf=3,hls-,gg-,zr-,zgk-,kbg=8,kxs=8,znbpk-,cg=6,dz-,dmtdl-,xhsp-,rhd-,lkqp=4,cf=2,fl-,czc-,bhg-,fx=3,bxk=5,zqjprz-,gs-,cfb=1,hr-,sgh=8,rt=5,xdj-,gfqclt-,cq=7,tbm=1,rzl=1,bgj=6,pkzff-,hlc-,bz-,xdg=3,lbjp-,shf=7,gjx-,pmkqk=2,tdfx=3,klmlv-,vsmvd=4,cf-,ffzvk-,xrbt-,pmkqk=7,xtvm=2,zhpfgc=3,hjl=5,kbp=5,drsx=8,vpcz-,rpmz=1,tms=4,lh=2,rnhrk-,cq-,lxc-,fr=6,dkn=1,mjs-,nq-,sqq=8,jqxl=2,gs=9,cvjr-,qtp=2,cgtd-,cq=2,ht=6,kr=7,qfh=1,bfdd=4,mr-,vbk=4,bmmgsc=7,pjr=3,qqt=2,tbl-,gmpj-,qfp=7,cm-,bq=2,bfdd-,pvjz-,kr=7,dkz-,hkj-,mhrvl=9,rfl-,kbg=9,zxk-,lq=4,xc=7,fjf=9,rfl=8,dxts-,mvd-,xc=6,fdtl=3,kxf-,rrnz-,dxts=3,rdm-,pnrk=6,thp=6,mr=6,tbl-,gnj-,df-,pt-,nzpbn-,zf=9,pkc-,pkzff=7,nkt-,mjs=3,rpmz=1,pvj-,czc-,rbs-,sgh-,dv=2,zt=3,qpm-,bnh=3,tbl-,nrmt=8,dsj=7,gvzx-,fjrrm=6,dbblf-,hd=1,qd-,htk=9,ldc=3,tx=3,nmh=2,lrc-,pln-,dzlvpk=1,qglt-,qmd-,vfb=2,xg-,nms=1,fbf-,prs=8,lbjp=9,nj=1,hlcpzb=7,bpc=1,vmnt-,sf-,gn-,cp-,hjl=7,lh=1,lf=7,xq=9,nzpbn=6,kv=4,sq-,mkd=3,fbf=4,cvfr=6,ks-,dcp=4,mhrvl-,slc-,mm-,pgz-,rsg=5,dk=8,thp-,vzt=2,hsz-,zf-,nj=6,sv-,pvjz-,ptkrnb-,lbv-,qfh-,tbl-,bnh-,hp=8,ctm-,rfs-,ts-,tkd-,fjrrm-,vbsrn=8,lbjp=7,qfp=3,nst-,dbblf=7,fhzj=7,xq=3,fdgp-,hls=9,cz=4,jsj=7,jxj=3,qkfp-,cxlhd-,pq=4,sls=5,pq=1,zftx-,zt-,tpnf=3,ksh-,tq-,flg=3,rzh=2,ft-,prs-,tmtnb=8,hf=8,kv=6,jz=1,qgz=4,vdsn=6,xc-,ps-,tz=3,sxht-,jp-,nj=1,lvx=6,tvr-,nqj-,bt=9,vcs-,rhd-,dp-,qq=4,shm-,bb=3,js-,fj-,cgln-,jz=7,rtg=5,zxk-,lr-,xd-,klmlv=6,kmtk=5,mb=6,pnrk=8,mb=4,dz=2,plm=3,bsflq-,pkc-,qd=6,rsvn-,cc-,tftg=1,kmlft-,dk=7,cp=1,rmgxs=8,ps=6,kmlft=1,vq-,ldc-,df=7,npcxkn-,mqjk-,zr-,szx=8,qmd-,sf=9,sqq=4,hs-,cm-,hh=1,klmlv=7,plfn=3,kp=6,zxvqk=4,nbc-,vpj-,zqbr-,pjr-,lrc-,kdb=7,zr-,djrhq-,cvfr=7,pjr-,dcp=8,dfv=4,snt=2,nms=9,hsmkv=5,vnqqfc=6,szx=2,vk=9,kmlft-,tdf-,gn=4,nst-,ldc-,dp-,rhd-,prs=4,lccj-,zg=9,bsflq=4,npcxkn-,dv-,hsmkv-,lrc=7,sqq=1,tvr-,tp-,fpx-,qhs-,cv-,jmtr-,gg=1,hr=9,rz=1,lfjj-,cg=8,qpm=4,vbsrn-,hd-,rc=8,dq-,qq=7,hnz-,mcq=1,dqz=2,kxf-,jz-,bxk=4,kbp-,cmb=5,nnpq-,pjr-,mxc-,cnbf=6,tqv-,tcmn=5,ssz=7,gz-,fpx-,nqg=6,bnh-,vdpj=1,gkcr=1,lr-,hfb-,qq-,cf-,jfsfp=8,pt-,crh=2,rmlm-,hkj-,snf-,jfsfp-,shqrb=5,mhrvl-,ps=3,dz-,crh-,lzn-,zsq=7,kr=2,qr=6,njz=1,hq=9,xkd-,pf=8,zc-,nkt=7,xrbt-,cbttmk-,cc=2,lt-,nbc-,sj=1,nk-,qfp-,rsg=8,xp=5,cnbf=4,nn=7,qpm-,dgz-,kzbcjm-,pnrk=1,jclfth=4,prf-,czc=2,zj=8,fjmc-,sdrk=7,tb=3,dscl-,vpj-,bb=2,bxk=3,pb=1,vdsn=5,rzq=7,grk=6,tx=9,zvt=2,kv-,fqz-,qmd=7,cg-,sjq-,zcjx=4,qkfp-,tnkx=3,gjx=7,skpk-,cb=9,vqzj=9,qtp=6,dgbzr-,grdn=2,sxht-,thm-,cpq-,pv=7,hp-,nmh-,rmgxs-,gfqclt-,fsxrqj-,rdfr-,vkq=2,fx-,jsj-,gfqclt-,zr=3,tp-,nst=8,thp-,hnz=5,xvz-,fx-,pnrk=9,dz=2,cgl=5,vpxxc-,hkj-,cgtd=4,qfp-,cl=8,hh=5,ptbr-,kv=8,lq-,hpp=3,kdb=7,pt=9,njz=5,vcv-,rzq-,kg-,pgz-,cp-,thcs-,qhs-,dp-,bb-,pgz-,bb=2,ssz-,zsq-,jxj=6,xrbt-,tp-,cnbf=3,gfgk=1,mjs-,xp-,th-,mkd=3,hvvmc=9,xdk=3,fsc=3,scq=4,pjr=3,mv-,dl-,tbtqj-,kv=3,lkqp=5,sdrk-,zqnp-,pjl=5,gjx=9,kk=8,mlzp=5,tdz=2,zj=3,xg=4,csmch=2,mkd=4,pv=9,nkt-,qb-,vtmxq-,rr=1,prf-,hgh-,nl-,pvz=3,sgh-,snf=6,dbblf-,ppzh=1,qb-,ds=9,nkt-,bnjjz=3,hvvmc-,kmtk-,mr-,rfzs-,ldc-,ds=1,mv-,np-,vdpj-,gt-,kbp-,pkc-,nzpbn=9,cfb=1,qmd-,bpc-,ptbr=2,cvjr-,zc=4,tq=4,kv-,pjr-,mkvv-,nh-,xdg=1,grk-,kjls=1,shf-,xmn=8,qtp-,vtmxq=5,zcjx=6,nn=6,fsxrqj-,qd-,xtvm-,jrl=9,ds-,djrhq-,cxlhd=7,dbblf=6,dmq=5,dqz=8,gnj-,kg=3,dmtdl=3,kzbcjm-,bnjjz-,dxts-,skpk=4,ptkrnb=4,rr-,vsxfqp-,xhsp-,tkd=3,vd-,bnjjz=1,tftg=9,nkp-,nk-,vkf=9,vn=4,hsz-,sq-,dtfj=8,prf-,grdn-,qf-,pfvqp=3,bgj=3,jclfth=6,rbs=3,bzfvl=3,vss=8,jmtr=4,xdk-,mbrs-,qkfp-,tt-,hjm-,bb-,zh=5,np=1,kdm=5,dk-,nst=4,jclfth=7,pjsvd=4,dthz-,zhzz-,cs=5,sq=6,xxsfxb=9,sljtvf-,cgtd-,mlzp-,prf=3,gjx-,ft-,bb-,zsq=5,slc=7,jl=1,hp=7,tbm=3,nj=3,ds-,pkc=1,szx=7,rsvn-,kdm-,lvx-,kdb=2,pvsb=1,dmq-,pkzff-,hvvmc=9,xq-,gpttz=4,cm-,dqz=5,qtl=1,xhsp=2,ldc-,ch=7,ps=6,ldb-,lccj-,tbl=7,qd-,dbblf-,pgz=8,zhpfgc-,dmtdl=7,zhzz=9,gz=5,zxk-,vkf=7,dv=9,llr=3,kfz-,hm=6,qx-,mkd=1,cx=9,tvttkp=5,rbs-,xdg=5,bsflq=6,sp-,ldc=3,ch-,htk=1,pjdrpt-,cb=8,fl=2,lnvkl=2,pl=4,pd=1,kv-,sqq-,kh=9,mkvv-,thp-,rbs-,mvd-,tbl=9,sqq-,mb=5,tdjzd=4,lzn=1,qpm=5,vn-,ppzh-,cbsmlt=4,dbblf-,njz-,sj=5,rt=3,kv=5,zcjx=7,gpttz=1,jrl-,htk-,mdx-,ttn-,rfzs=1,jmtr=7,zc-,tdjzd=5,jmb-,kxf-,dq-,cz-,vxf-,lxc=6,vkq-,gvh-,dv=7,dxts=8,ht-,zg=4,dmtdl-,grdn-,pjsvd=1,tdf-,jfd-,zjm=5,hkj=5,xmn-,pmkqk-,kbp=7,bk=5,xp=2,xdj-,bt-,hfb-,nkb-,rzq-,tb=3,ps-,njz=6,hpp=3,mr=9,xhsp-,dp-,jz=4,gfqclt-,vdjz=6,tqv=8,nzpbn-,bnh-,bnh-,shm=3,zsq-,zqm=6,zr=2,qglt-,dcp-,vpcz-,tdjzd-,scq-,nq-,pmkqk=8,cvjr-,ms=6,lqdd-,dl=5,mh=1,dq=6,bfbt-,rtg-,mvd=2,snf=9,xqbhnt=1,xkd=1,gd=2,ffzvk=1,dq-,vsmvd-,sh=5,vcs-,grs-,tq=8,mv-,nc=6,zxvqk=7,zhv=6,zsq=7,zj-,rnhrk-,tb=4,sjcf=5,pvjz=5,mdqz=9,ltlm=4,ms-,ft-,pl-,flg-,gkcr=7,fbm-,ft=2,rp=7,fhzj=7,sjq=4,xkd=5,zjm-,cm-,prf=4,ptkrnb-,tpnf-,lf-,gfq=7,bq-,vx=4,ft=2,hh=7,vqzj-,rt=5,ptkrnb-,dmmk-,ttn-,hq=3,bfbt=9,nmh-,hnz-,vfb=5,djrhq=6,hm=6,kk=4,hgh-,fdgp=9,tv=2,hfb=2,mb=6,xrbt-,tc-,dxts-,qkfp-,gfqclt=8,dl-,qglt-,nh=2,dnrx=2,vmnt=7,snt=1,hgh=5,fr-,fnd-,pq=8,lccj=4,pnrk-,dnrx-,qzs-,qgz=9,fbf=6,vpcz-,nh-,fnd=8,zhv-,nq=4,bq=1,mv-,scq-,dz=1,bmhf-,vpxxc=6,mqjk=4,xp=8,cm-,vd-,gxpr-,jqc-,fsc=9,th-,dj-,np-,jmb-,sp-,bmhf-,vxf=2,szx-,rrnz-,tpnf=1,vkf=2,ctm=9,lnvkl=7,dmmk-,nkt-,rfl=4,qgz-,cx=8,kmtk=9,rc=2,ch-,rmkb=5,vq-,tq-,hglng-,ltlm-,gfq=4,ggq=1,dvq=9,kxf-,xtvm=4,jqxl=7,bmn-,pbpb-,gvzx=4,lqdd=2,rz-,xt-,tpnf=5,tnkx=2,vcv-,ffzvk=6,zxvqk-,kv=9,dbblf-,th=5,pvjz-,nbds=6,qf=6,lccj=7,tlf-,rsg=3,vsmvd=7,nbds=9,bgd=7,sq-,qtl=1,qfp-,gd=3,drsx-,lc=4,gs-,kmlft=9,cx-,rmkb-,sv-,qb-,mkk=9,hlcpzb=1,fnd=7,xt-,mh-,vpcz=6,sf=8,pnrk-,ldc-,fpm-,nkt=7,gsp-,vpxxc-,xvz-,cvjr-,hpp=1,vjjfgc=6,vpj=4,lc=3,tdz=8,tvlqfg-,nkt=6,cb-,hlc=9,sxht-,lvx-,vbk-,rkv-,cpn-,tc=7,sx-,nmh-,fl-,zqm=1,dmq=3,np=9,rzh=9,qf=9,fx-,hs=9,kbp=6,mjs=9,vsmvd=7,ffsn-,gd-,lt=7,tp=2,xdj=5,rr-,zqm=4,ltlm-,mqjk-,lqgpv=4,vsxfqp=1,crg-,tdjzd=1,xq=8,gd=4,vk=3,ps=6,cv-,ldc-,gkcr-,lqdd=9,dv-,kr=3,lh=5,tz=3,bgj=3,gmpj-,ch=1,jxj=2,rbs=1,lvx-,sls=2,mdqz-,lr-,vkf-,zgk-,qr=4,qgz=7,th-,sdrk=8,bsflq-,cvjr-,tx=9,bhg-,lvx-,ptbr=9,tx=4,lfzf-,fsc-,kkgt-,sjq-,zvt-,mjqhbk=1,dscl-,rfl-,sxht-,vq=4,fsc-,sp-,th-,xmn-,vdjz-,xvz-,zvt-,ctm=2,vn=5,sf-,fsxrqj-,tcmn-,nqg-,gfq-,plm-,ltlm=1,fbm-,ltlm=2,fdtl=6,lvx=3,czc=9,dq=6,pjl-,jsj=3,ssz-,vbsrn=2,hvvmc=9,zhzz=1,vmnt-,hp=8,dmtdl-,rbs=1,dqz-,nkb=2,npcxkn=7,kh=4,vsxfqp=2,rc=4,gvzx=6,dsj=7,rzl-,vx=1,fgf=9,thcs=9,lp=5,sh-,sgh-,fl=5,rr-,fdgp=3,bnjjz=4,ppzh-,zlms=1,hfb-,gbvf-,ptk=9,ft=4,pvz-,vdjz=6,pv-,mdqz-,shm=3,ds=9,vpxxc-,fqz=7,rtg-,tp=8,pv-,lfzf-,sjq=3,kbp-,cfb=4,gmpj=3,rt-,csmch=9,nc-,sh=4,cgtd=5,phxjs-,dthz-,cs=7,zlms=9,bgj-,pln-,kg-,pfvqp-,zrbc=5,vx=2,dh-,nqg-,ddpml-,skpk=7,qpm=3,fj=8,sf=2,xdk=2,jsj-,zqm-,zhv-,rpmz=6,gsp-,mcq=4,lq=8,mn-,ds=6,cm-,xb-,zg=4,tbm=8,ddpml-,czc-,ppzh=3,xkd=3,zxk-,ctm=6,vjjfgc=1,dz-,fmqbk=3,pb-,thm=4,lfjj-,zsq-,gbvf=2,hb=5,ffsn-,zgb-,kg=6,vzt-,xxsfxb=4,jz-,cmb=6,rnhrk=6,vss-,hjm-,hlcpzb-,vsxfqp-,rhd-,plm-,gg=9,zvt=5,jqxl-,vbsrn=7,lbjp=5,xdg=8,hh=4,gjx-,vcv-,gdld-'
 ]
 
+{ #category : 'data' }
+AOCTest >> data16 [
+
+	^ '\...............\./..-|.................\..|......................................\....-.............-...\....
+../........-....../..............-....................-...|...........|.../...\...............................
+.\..............-......\..|............\.../..-.........\.........../.|................//.....................
+.........\...\.................................................-../......../..................-.....\.........
+....-.............\..|..........-\./../..-....................|........../..........\.....\......|......../...
+...................../..\..../...\........-.../........................./..-......|....../.|....../.\...\.....
+\.-.............|./................\..-......|................/........\......-........-....\............|-...
+...|\...........-........................\...-/......\.\......|.....-.................|/..././....../.........
+......\.....................................|...........|............../..............\......\.........\..|...
+........./......\.|.............|../........|.........-...\.../.........../-............|................|....
+-.................|.......\..-.................-.................|..........-.......-............./...........
+...../...../..........-......\../-.|...\..-...................|.............|.................................
+....|........../-..........................||.../|.................|.........................../...-.\...../..
+.....................-..\......./.|...-....................\..........\.........................|........-\...
+.../..............................--............-.\..........|.........................-....\......../..\.....
+.//..\../...../.............-.............-....-........\....\..........|........|.........-..................
+......../|....\../...........\..../....................................-....\..........................\..\/..
+.|.....-.................................................../....................\\.............|.\..-....-....
+....|...-..\..|./.......................|-..-./.........................../............./..-\.\.........\.....
+.............................\.............-....\........|..........|..../\.../...\...\........-/.-...........
+.../......./.-........-.............-................................./.....\......./.|.............|....\....
+...........-.............|..................................................................-.......\.........
+................|.........-...|.........\....../.......-.|..................|........../....././............-.
+.................\|.../................/..............-.|......./.......-......\........|......\....|.........
+......./..../..........\.-...\........................\..|.........................|..|........|-.............
+..\..........\....\....\........|.\...-.........\..........\............./.............\......-...............
+....................-..........-...........\............\..-....|.............................-............/..
+.../..........\......\.\.........../..../.....-......|......\......|.........|......-.\....\....../...........
+........./.........................|..........-...........-.....|............-.......\.......-.........-..\|..
+......../.........../..-/........|........-..-...........\....-.......|.\.......\............./...............
+..|.......\..............................|...-|.\....././../\....|...\............................|........-..
+./.................|.....|...................-.........\..........................|-..........................
+..|..../-..........................................................|...../..../.............-...........|.....
+..-........\...-.....\...|.................\\.........................................|...................-...
+./......................-.........../.................................|............./...............\../......
+....-.|...|.........\.............-.....\...|...................\.......|./...........................\......\
+.................\.../...|................../....-......................|............//..........\............
+...................|...-............-.........................\..........\..................-\......../..\....
+|....................../.../.........../....................|.........\.-./.....|./.....|.............-......-
+.......\.................-.../........-..................../...|......./...\....-...../........./...../.......
+.............../................|../.-...../......\.............../.\.\........./.............................
+.......-|...-.........................|..................../.-...../......-.....-....................\....|./.
+.................\......\....................|........./.........\......................|..\..................
+.............\........\\./........../..........\............|....................................-../......\..
+....\..............\.............|............./............................\..............-........|..|......
+......\......../.......|.............../..-......./.....-......-..../..\.......-|....../-.................../.
+.......................\...-..\....|.-............./.......-./..................../....-............./........
+....-.......................\\......................./.................-...|...........-|............./.......
+.........|..\........-......../.\....................|-......\..................|..............|..............
+.-.....................................\///...........-.-.................|./..|....|..\...................--.
+.........../|\.........\...........\.......-...|..||..................................\.\-..-..........\......
+.....-.....|...\...........................\......|......|/.........././.................../...-...\.......-..
+.........\\........-......................../....................................|..\............\.-...\......
+............--..\................./|......\\...............-......../.............\-.....-............/.......
+.............|..-..-.........-............|...|........\../....\.........\...|.-|............/.............|.|
+........./.............|....\............../.................|.........................\..-...................
+..\........|\...........................................\...\.........\......-...........|....................
+...........-......................./...............|..............|...\.../.|...................\.............
+...|.-................/.........-......\...................................-.-../.../.....-\.|.-..............
+.........\......../\........................|..-......./.......|.......-............|.........-.............|.
+....................\......\........-.........|.............................................................-.
+-....-.....-...\............|.\..../..-..........|..............|../.......|....|.......\...|...\..-......../.
+...\........./............\.../\..|.........|................................\....-......|.\.........|........
+|......................\/.........................\..........-............|...................................
+.....\../...\..................-....................................../-........................|......\.-...\
+...............|..........|......|......../..-....../................\......|...-..........-.\..|\.......-....
+..|......\............|.........-\.......................-.......\..-.................|..-|.............../...
+..-..........\-..................\........................\|..\......-............................./..........
+|.............../......|..........\..../.-...|...|..|/....\...../.............-.......................-.....|.
+................./..../.........\.......................|.|..................\........../..............\......
+.............................-./...\.....\..........-...-...............................|....\...........|.-..
+.\.......|.......-..........-..............................\.\................................................
+|\\........................-............/........./........./..-..-...../\..............|.............-.......
+...-..............................-..........\.|......./...........\.....................-...............|....
+.....................-..|............\.............................-......|.........|.-....../................
+....\....-.............\...........-./...|..\./..........-.........-...|-........|-..../.../...|..............
+.....................-............|\......../..\........./..|........|...................|........\....-......
+........\/..........|\.-.................\..............|....../-............................---..............
+.................................\......-........................|...-.......\-\...../|...../..|......|.......
+............/....\..|....../././....-.../.....\........\.../........\.........-..........|../..-..............
+.........\.-............/.......................................|.\.................././........../..-........
+.....................-\.../...|.........-./......|....\..\.......................\.................-..........
+.........-............/....//............\................/|......\..-............/.-../............\.........
+..............\........-|-|-\....|-.................../.../....|.|...|................\........\.....|........
+...|.|..../...................-................................../.....././..-....|..................|........
+-..-.-.....\...............................-.................|..................|..............-...|.-........
+...................../............-...../................/..|................-.........-...............-......
+...............\...\.........\/.............\...........|.....\......................|.....................\..
+...............|.....|...|/....|.......................\|.......|...................................../.-...-.
+................................................|............./........................|............\.........
+...\..-...|........................|................/...|.............\.............|...................|.....
+\..../....-...............-.-/-.......................................\........\..............//.....|..-.....
+...\.....\................./.-..\......................................../..-..\................../...||......
+......................-....../..\.|......-................/...................................................
+..........|......-\............................/................/........................./..../\.|.....-.....
+.......-........\.............-\..............................................|...../../.\.../.........-.-....
+...../...../..\..../.........\.....\.....-............./.|..........-........-...../............./.........|..
+..............-..\........\...-.-...\.......|..|.....................|.\..............\...\.............\.....
+\.....|.........-...-........|............-....../.\....\.....|......|........../..../.....\.............|....
+......-...................../................/............-................./..|-........\.....|..............
+.....|.../-................/..........-\.............-.-....\.....\.\..../.....|.....|............\...........
+.............\............................\..............\..............|.-............................\..-...
+..\.......\..........|...-..............|.......\...........................|......|...............|..........
+..../.....-...........................|.........\............/............./....../..../................---/..
+...\......./\.|...|......\......\.......................\................../......|........../............\...
+/..............................................-.....|..-.../.\../.../.........../............................
+.....-...........||.....-....|...|.......|.........-..\..........|............................|.......|.......
+.|/....|..........|.........-...........\.\.....-..........|...............|\.........|.......................
+......|...\...|.....|...............................\...-/....|................-................|.............
+.-............../.........|............../.....|.....-.............../.................../.\..................
+'
+]
+
+{ #category : 'data' }
+AOCTest >> data17 [
+
+	^ '222122222223113222232332334342314311221224331555341315113141344525243452541321241454225245341444551311241314442331214243423113133331332322222
+121213232332313311221314142113232232211333525123352551344351122352133553145232234115321453351214241353332423344411413144431213323223222213222
+212332133133331231313241313311443144333445435431153143452442121321314115423151143442453314142345241441221232333242241121223112323311213131332
+121223111221213131223241214123111413132533151553154141153144114123154242235422215312244445531223323412431442313144214122141223121123312121111
+231333223211332134113131113324443243254514214123215545551241532433523555331531442545231335525343444132325122323311344424222133233311112123131
+313232323113311133342343321311414244545354224141541525331541444512431115122145521333544553211141332454355411142443412142344431123313232311311
+111132121113233332144312312413142554254255234145214141352424531233354665342515523342241244545542522415414534422143431124113131142231111321211
+233122122221133243231343114242354123333242214253511215113435343565333265332243225462355444243354311215222412243513342413324442223112232223323
+322233132132132232322142242211541132344354411332111152265363444436632265622532236656255335234443355513324153155424413141233123431122321223212
+222312223212344221334433341421154455141423545355241156636263665566345645626562545644236352232225155152241542523321414141223422442213332333322
+311332311244343123234314321422122412332453222214152646322263464324424562646354663443634666225544414325232523545124143131314112444242133133322
+211212133234423121441324213241113552345212141553465464426632325643645532226526523665645346552454544342142532425323351323234413111331133221323
+211121322123412111341224512435241214112445234625336246446534256255564456236662263542355465556233555155542122452123451151331232443432332332322
+212323321123144434322131143235222511314352344256426532552666446245242645346544545453234224466333436333144314253333244551242114121323312123322
+332321121211434321111422533243421525525562642625333422524534336244236324426423233254424245366552324542451115352542354331231334223443311223232
+321214442412113322113243524141441525544456535645466454565544463422322456433334525336252245462452342443333252153114122532145334422411223412333
+112113143413411331412332141422142454233566333533652666256266636654564246452662254546266443424246252225635435314454425111152521112333431231213
+333322423214231422123311211553443122632453556456446654263563344536444367536333464634542666345334324554225222412331251313222322321111223133121
+322143421422323433325155133112123164365424654466665654334643774353355466677376635372256653533432636455262242443132222425435543222212113333131
+321412322322243223435155422135215222324425333443252355246356435563637767473444757444453465362262545633433363564154453453254242414421144113234
+222342441223324142351453335312535522334434334355335523764676637333633566535335755747543467632466634425445453225655231512325134453314242124433
+241414441332414151254415425122435552545453653446426736347673544537755574467334577367635537664256352263432363664333442451234532553434313114214
+142141343234435232142551342144323653426264225634476537335674674643365473346643456474357453565473354226442526243524434352122212412424441322122
+212241432243153552225424554142335632353662266453745456453674453446333533764466474737464533433566522366663532666422324521441535141331112423123
+324223243221234232152324142534324365535662444647766365534447535655464636477543643777756634774435757565334632222324342322553112343541232344422
+424443444441525512521154452234632233555234633547765576735454575574367633473757565644734557774665454643352556454444434351153223142324244312124
+132122122441234235122444346253256655663627555455543743473633335537735776753755336735465354677473736477344252644532536345122112232444132211324
+332334312424452215552443653442635456235675543373743777677746556664673576547753573443643443477574444465462233546526365222525314431123513131114
+442112443514443215411242462555433666225376366367354353667444675663545555554855776635564757774576453763354262533346534532552434425324344142442
+131232322241341442542135234334324445336456774473737655636743575874476758748447666747535566373475547357346552262254453554421224552253241133111
+144321212311113331413645553553424442474454744657776743635547474856867566747755654566463436454435655775577346646443464643542552335221324322223
+312341415141453514325564262423524646733777335774467336466768665767677655884776886764548756557765666667367366666224255652545215514121535131424
+443213524143453331542365442562453467744576444534536678654776664685547475886568688848644646457355637467353657426465222655336554252421153351442
+234212223523522221355242256445625356444657443336337865475848687556648646576846554875868885745364576746666363636245545535642421122454234134324
+413125535222533352342466423562455377367634677645367648547557766676484848558446865568766854666554437577375475466346353532225562352344133514122
+233145325135113143555336552234436773376355434734448676558654886557465877655684446786567688684744356463757546646354465346522445455352533133111
+122425151533511216326554546445746655755655645647666474664854454566556754788685646854484846687885864755756743333742266322363322215455434412342
+341455233415423133433455553543765365474733465856885688685754866587848776848675665666868754668878586366735543474364546665654223211413411214544
+244143512523342254345534253575674663676366778745655868468564847866848585455758567867684668674554754743477373454743464233526543345115442223151
+243452251215222663536333224465547736335653545776874575856757575766878896789585874855855487787774685453356337746774345636465356623451211222452
+145121532345433333524626536455734344345737447768478867774787756689997599697665977786874688878867754776336447364667353653256554632521512533211
+214223323544253254422346444776674764376744568845685885557476598696989765658568576655545856475785555776773467643755463346422324446125214155554
+132143412451365634464656535776344744454544885865654865848788569788779789595599997865556456875646745545783566437375637232255225466633414544313
+343434124322236344445262274377334334578866567858447746879769667559878698559988669795555586574548485485844465434773467723266436442233413425544
+432241315524232353343363467777754544346846664655685867989798795679979695899785685887588966688786764444564763377743764764322662565522411312215
+341141235242235522564324374735356366585754464775888668565595785588886595888698597859777988945846488584557446466576575672656646346343541152135
+221314132216252656525255576673454337558757658566745675795858755998587875858959997955689998897758864648845843373737645563324622442252344343212
+411154543444426555623464757336476646486847585758468695678956956767667756595757977699879758589688484858446587345756754674642426464224235242345
+522153422315454564525634363536535768778787878476956996659857557795585797959975798997677869888768765456464564747533447336353665453322313423245
+213231553262463536342543375335764588588755547887967669797777956958996587558596699797578858965898784586775844455565356734452323434546655123341
+145224214446646653334574345633747657568768578848956765688788985688667796766889658597776777958997575574564875443754446773544354566345221552432
+451214213125553465554564754536764648575758545777769595656768759766788896669677665559975756556789877667476666464555777374443522233654631531352
+335343131424362563666543533537567855575585887699596567577668698679989969778689786657986577689687968686645454687653536566362323352644552434432
+213542552434653252457576663657448556486448645999678689569656988676898798689689699669668675589957896877846468668736344776563446633342453244114
+333415452224546446633777446747658476874576457779996799677796678888678998969878786987688968875896865885756586646755745755345223436636261414533
+135232325665654555266656653347548847847458489788596565955879678776999776887966987868799999966696877875774747568456544544646625665255452425535
+342451223564226523554344677765665866784557485989978787679998698796897779696768889679889675768988588556884674855575473655355445466333344133514
+314155145424354452475465445373766557656675578666789779897977997876787966988767999766668957999768875696755756478453743557335542366545342242421
+524354322645522626534654774676767485865665768577969956766968779666767768979787786767799997875567775578654548468665373764653556634534233332543
+222431455562524443255757475563875756475778658659978867886978669786698788886667797688767799668775575769465754865776563347554735556235523213532
+422143166342563266756377365476648687774548786768868978768768678887667778786888698678668989966785677659775455485766556456563336465625522612452
+424332122444465344754767363578475676554458795698778667679876786887679887988786766777677666979959895755476856667758536346355643242562625222221
+154411143236334323356756644767467678687879958887965897999899679887889978777788797866979787786868987596888886775774353757733646232626242554415
+125542462244242542745636467777585584544795897656655798989899878897887897798997798977698679679968789556655847866754334644765342443442264431455
+125141534445565366376653546567476866864887579556696896696777898979778999979779876978678866778556589658875747856667366537335534254555354225323
+344234153226435452734356463566478784788457898589567699787766687997977799997899889666666869696695996988966456454446665354436533422366425623235
+533115533542422655746746746375558656567668657695787796876776677997799787987798789789696698867877658667995748845685734655433762243536466644124
+255131466663333544547674375366446476486586887585987897997999897989798878798898998966896976767668587589698856655758774334456633626354553622144
+233151444364454356435755673588675785588756577599958877687998998989978989979978997877876989779985855665794678546558467645354764244253233353514
+353153364332534336475474734565666585556687888888967988999868889778788779997877787999869967767666867876767745776675877776336434644225643235245
+321441346534654544557465637547688886546888656789868688766788987788989788888989899776667698869959576685998574446856577663365333244242534424541
+313522623362344634367656356687566487588669895965577669687978788887877898789787887967667976696578867557874456547546455676654563665233322253452
+553523463322332644767765654765775868564756656588758887697686778998988989898788987886787778778778895759785667766756767376347457243435546325311
+113321335452642464744645454385567557685865568987677678776887999879789979989779988779699678779765686799976446654844435566663746535553246633252
+125235163552334346667734777676548785644898587555678897676898788878889898898899779778989767998699855765655578565566677475435643423553556344111
+122211355542232444546637663585676786667758558866657786696866979977789989997798899977878678686585965987676687557764856643465477262625245523515
+341311322562552444465534553644746646476596598856589679698669879889979899999798799886696987866669689876987765648644836433533563234265655354134
+131254356642562425376555537664457787887886855578959996998996899879898887777799889797789969779695655766844445676446374475444665224535365412151
+421552125432363562565446645566874758558878866679797789766679889878998778777779896778989997666955896798746876466787454656655473356235422354235
+521515446632656352573753555668878875658566776789566766868869787899979879789899797986789789998895867777658685758688747745773343644555234434225
+545352334433552455434556374368586458565566865596656668786677899879899797779998897788887879689889995588678456584655533535355765462422653255125
+441544164242623255657545663747444858486488975596686598676687777696678799997897867986787796866585857558565545857444366653354374555534466624444
+221151442446265243753337537643744468458846997667585696696786666689879779898689866798788966695969857678687677875787375665337455555653642654232
+522143334253525665543576333763458765754575578969579558867977967898799689886899797879777978789955599679456576664563454453755665556565655542222
+113445144363524666676467336755764885557456797685998577699977988676797769866899796769969769975579575896585846877664746637663552652454546553441
+312244456255662663274665466444566567576778758787689895978699767889777896677966997679768999567678555658744587558663343677664353362355534232133
+141145535352323633234445357566357675566657557655575789867976789887967896779876689876989757588768855647748447667854536735653452336642254354112
+121114254365532346353555634757448466844876795896877876656869768897778977677967768867887967786896956665868448578875555575347533643255263443245
+122133331532224444366663456434338875474758678985667556755667678866798896897878997998686677597968679857475686674567665336544366466452663254311
+224224153424654624535556743576537466485788848688566556699869779689769869689699798779667958755676578676857877866535555453557645656566664415342
+224412522433645463365363447746753885767686558955897995988655677897989889697977978899798785558696685645876876765756675435356433233562561234342
+445552121442223423565436654745767488655656887695698769885955979996778669687678796897687757758757556478545754573477374545354432243246443522243
+421354115152634625453434674745675646677568555485996755686879968867869979996985986965655967666998767455856565865453474467764342533344641441153
+553241254264552246244456445647577678448566778566585699966996888665768699989779595665855795576675656474655654875754767566543323334645512354325
+513343333243366452565635467733746675445484688555956566676765767788775565598756797887997579989995454645867445763664355345753536433546143123121
+125131551223345346542365577337735556764875667754446865555966676679698855599686985875996676799855858748555674635667545667225664335566155212211
+511124412535445664232337633455575477464687677675446668679789876996569899779867967656657757864774867855845567637774636473554462625324433455255
+333314212551634636626534545435636337557455465866667695855796585899756795665695786759897966874665786658866446444455567535263654242354351454515
+333352144512326562436642635454757737676867646488444679898969996657988869567668567969896858485455776455545436733657756334335246623544322415324
+351433553425525665252454443644643355457768467488554586658996679555657985795566997786585858654456586688655556643344773622544535545241211233123
+244551411422446422662235264545777776655864464678646548558969799559955877976595877867696686784555666746454473773646763634354566464411325233545
+134442342131436254553545263735357336477388646646688586845485895987685788657656656986545688768585556756464345567765735562365365236244543232344
+413424243312345433424642525745636647737544884575545546487785868679765885886987968886567578686755875667577773346776636326256664555142222441515
+224542222225412325624622445567753666566757567784677478478858844466556695696575757668674577846566687644653556764564563422225356665221125425212
+224541123452243436552265622345354447475565774755888654855458465744878664675457848458774748654568654565466765754454426233634366434513332423532
+111111131122533246224536266354375433566774453858587587587776555677755565757778787868885575785556544467476665476573326645653334455151335142123
+314335325352251424453524265566455555434747453374864565647686884545454746654665656544555885876555453356665347647556364344634626151422114443123
+132315545432243122234425444525443357745546543555654885447886874457578677867865545647547544757688735336355345676532422436626645321214124134212
+443323231424534343466635666222526457464735666667668856674447785858874486477766486647686575855765546456545434677434545252435341445255332154241
+112132355244213155233442235466434765766475536356756684465575864445764858786785447447456546876757643366356365533325522463622314154332523412222
+142114432255353453443333242364454445455667565746775338455775466464446566858545476774748684744466355663347557725225254556442215332133253233113
+324232222353554311553264345636223425446373753365633364466564568868468884445465874857688447555536455333533655225643634443235332351244433213223
+321433314313354144232435524663626536674567763664547375777767588455666548645778654885544464643677477434474675433526362636332114334554441324114
+444321112222334134433263345652652235534675767667776437555467577585866545875486664634566453575434737677576733446345256355453543353114412143334
+334213333552335224223433264463565555325776453574746463574563756633564685485754464533647434737337665734565563342354236662235252132554241324333
+144242213332514333152434432345554565264335637367775737335764737743676544744566376673745757745533364645453343235662625363513324113323243414331
+421244234231131113244435543362364532632556547634376347443334636346766373467547446657376566637376376645435656232353325235532515111344441122314
+432221443343421433442334254443544645225462444464345667466447446353676465637574566575435537655465434753443533653564366253512344224523214124314
+442411214142453325332355511645664334543632657346365355435344476755567436477367546447744546663575533256334363365442622254523125255351333344334
+232133113432234544554352242455426224355326625375457436577634474767555535546577656356574566466534733366642242352545631325212142555234442344213
+134134243443235545413345331544664326536456355323773465564766375643547643734465565567755646666354425566664226646443325232215421344113231433424
+311414212223243435443253441523422532533546652343233366467353367456765344677664436355635646542236522344226542526521331313325355112414212322421
+334232443321214421211245451135156243663543242242266643734575556667574545756556643547337554242352425255443425263343355243143343221241214234343
+124232141423143444334521514545324434424355644463624363327734476336434633435673465446464366334525462434632323446441521144323114143113241321322
+321414331231141234351213225534114256365433422465655242455623675653343654456737676334562333232443533433345336621513331511453141434223121224422
+233213212123332231444321554454521243352252556656534523664223224626544456453443223453642526535524426434322325222151553122432424133221432123312
+132321423141322311111455511235131324533532253633455555424625245553424542362565522535443266232235665253526451221523231511534143214332442333423
+231123343344444323131332211451353122524546266666363455365654343226336355324563455436265544334662333235265255142321144434543434214242441243332
+111133423112214421432525544554514441143234656452524644342365355552246535242244443255664242362635265463654225515333115335451431434232224433122
+233313113331334443314144235232155111242434354636364324664646444542553565524232453555263445434425533333113315152345245133213224312324131222222
+122331314221321232244311154432354132551355214343635355633243553456534342552562224252264552632654646142443252452232455541422134411424133323213
+321323232214143324412144152353142253333434221326622552645434535562666444426333326456265552323653322335233241235433141534442344442412141323122
+333322211144143144413124114531254255313451244544546656322543634262532645655655636632423532352254234545251152154535241311224344244322132331111
+233223131323341323132343132144124232445141442155112456324443652622633353344463432453352632231125552213124122311155413441434142413111222332332
+323223212113232314444441311112512135441525235234551145264266223553444526342234456245465642135234421551443551533543133123214241222432213223122
+311312332231134342414324333243224514535534312111323131434542623323632346523323446362131122522334552125245251413132113224314134423411111333331
+331232112322123214133424214211315152511525535444441112554314211212133344544334245121341153154552255531251335211131123331322121233121311111123
+112222313331221111442434111223431425412314322343135331535353312535342545315342221553551233455324225352231511444332413214443431341333321333323
+113322121232321311434444342111232434555234332411453131314453234552423312521155444131243522241333531125233313122342413211344414121221321132123
+231132131331212231143441111443414113444433535543534441452415315435355153145243235542533153124432435253444243321324133241144422333223322331123
+122332113112121213234112443231334411112234351253542213533414315524215133522524342325151543155414215411524114144443322341233311111323322333113
+'
+]
+
+{ #category : 'data' }
+AOCTest >> data18 [
+
+	^ 'L 2 (#274630)
+U 7 (#742433)
+R 7 (#274632)
+D 12 (#5a1523)
+R 2 (#552252)
+U 12 (#989093)
+R 7 (#39f342)
+U 8 (#989091)
+L 6 (#1dae62)
+U 4 (#10bf93)
+L 7 (#32c3f2)
+D 4 (#0892e3)
+L 3 (#380422)
+U 4 (#29e1f3)
+L 3 (#3527b0)
+D 3 (#32d823)
+L 5 (#3527b2)
+D 5 (#4f8123)
+L 4 (#642cc0)
+D 4 (#4f7e63)
+L 6 (#209f50)
+D 6 (#387f13)
+L 5 (#821880)
+D 5 (#4d80b3)
+L 9 (#5e6d30)
+D 9 (#553aa1)
+L 4 (#0d0cf0)
+U 10 (#5737f1)
+L 9 (#0d0cf2)
+U 3 (#2c51d1)
+L 8 (#24d6f0)
+U 7 (#957a93)
+R 6 (#4a8310)
+U 6 (#4349d3)
+R 2 (#31af40)
+U 6 (#5484a3)
+L 8 (#377a52)
+D 2 (#1edf01)
+L 8 (#693b42)
+D 3 (#1edf03)
+L 10 (#5ec0e2)
+D 3 (#656003)
+L 8 (#10a770)
+D 7 (#32bf93)
+R 7 (#664850)
+D 2 (#32db91)
+R 8 (#1c7270)
+D 10 (#9ccd43)
+R 3 (#6ad5c0)
+D 8 (#2e50e3)
+L 8 (#451b80)
+D 3 (#72d673)
+L 6 (#606ad0)
+U 4 (#1dc933)
+L 4 (#7d4960)
+D 4 (#425df3)
+L 7 (#6c14a2)
+D 4 (#193c93)
+L 10 (#891d42)
+D 4 (#5997a3)
+L 4 (#185672)
+D 5 (#2b10b3)
+L 8 (#837e22)
+U 7 (#371261)
+L 5 (#3da452)
+U 8 (#0b1d61)
+L 6 (#5714f2)
+D 4 (#2be861)
+L 11 (#3e18a2)
+D 7 (#6d9df1)
+L 4 (#4f3a42)
+D 4 (#269ae1)
+L 3 (#330b12)
+D 3 (#04d001)
+L 6 (#020b02)
+D 5 (#0ae901)
+L 2 (#5eac70)
+D 7 (#749f41)
+L 6 (#5eac72)
+D 4 (#39a091)
+R 5 (#25e982)
+D 5 (#29ed03)
+R 4 (#46aac2)
+U 5 (#33e203)
+R 5 (#638592)
+D 2 (#334443)
+R 6 (#729482)
+U 5 (#30c003)
+R 4 (#554c32)
+D 5 (#1487b3)
+R 5 (#636080)
+D 5 (#9945d3)
+L 4 (#27d310)
+D 9 (#39a143)
+L 8 (#268500)
+U 9 (#00fb73)
+L 3 (#75c380)
+D 4 (#00fb71)
+L 7 (#4a94f0)
+D 7 (#1707c3)
+L 3 (#1a0352)
+D 5 (#112b93)
+L 4 (#47ff40)
+D 3 (#5d5563)
+R 10 (#7fabd0)
+D 5 (#0054e3)
+L 10 (#1ca5d2)
+D 6 (#1811d3)
+L 6 (#0e9a62)
+U 5 (#301813)
+L 3 (#471be2)
+U 9 (#301811)
+L 5 (#554f02)
+U 12 (#56a913)
+L 5 (#70b630)
+U 2 (#3c7d03)
+L 3 (#5334b0)
+U 3 (#88eca3)
+L 3 (#5e5ec0)
+U 5 (#190663)
+L 5 (#0727f0)
+D 5 (#4bd611)
+L 6 (#729bf0)
+U 2 (#4519c3)
+L 4 (#14a4b0)
+U 2 (#5e96f3)
+L 7 (#264850)
+U 9 (#2e2441)
+L 6 (#683450)
+U 6 (#2e2443)
+R 8 (#1cc7d0)
+U 8 (#141153)
+R 7 (#15b9c2)
+U 6 (#59df73)
+R 7 (#565bb2)
+U 4 (#59df71)
+R 4 (#53d3b2)
+U 8 (#2ff203)
+R 8 (#387260)
+U 2 (#3f7fb3)
+R 7 (#32edb0)
+U 8 (#2f7463)
+R 6 (#67d5b0)
+U 6 (#5b3001)
+L 4 (#2a24f0)
+U 5 (#629821)
+L 9 (#2a24f2)
+D 5 (#683411)
+L 3 (#18f510)
+U 8 (#30abe1)
+R 3 (#06a2c0)
+U 2 (#4bd613)
+R 13 (#60ee30)
+U 5 (#6fadf3)
+L 9 (#384c30)
+U 6 (#30a8f3)
+L 4 (#579dc0)
+U 8 (#19d963)
+L 4 (#3c7ce0)
+U 8 (#316373)
+L 9 (#25ca00)
+U 4 (#429873)
+L 9 (#59be70)
+D 5 (#5b46e3)
+L 5 (#59be72)
+D 5 (#18e4b3)
+L 6 (#5e1d50)
+D 10 (#3e9e63)
+L 3 (#459ec0)
+D 11 (#44b1c1)
+L 8 (#324152)
+D 3 (#4c2b31)
+L 5 (#324150)
+D 8 (#22cf21)
+L 7 (#36aeb0)
+U 7 (#3b6a11)
+L 7 (#1a7740)
+U 5 (#518911)
+L 9 (#61d4a0)
+U 9 (#323d91)
+L 3 (#5d5b40)
+U 7 (#661041)
+L 5 (#484a82)
+U 8 (#087991)
+L 4 (#38e512)
+U 6 (#5fd7f1)
+L 5 (#806972)
+U 7 (#685183)
+L 4 (#6671e2)
+U 10 (#8f0d81)
+L 6 (#2feae0)
+D 10 (#201181)
+L 6 (#507ba2)
+U 8 (#62d101)
+L 3 (#19af52)
+U 11 (#4d1871)
+L 8 (#6a2af0)
+U 4 (#135721)
+R 4 (#4260e0)
+U 4 (#443a41)
+R 6 (#107d40)
+U 8 (#0aacb1)
+R 5 (#5df350)
+U 7 (#30bf53)
+R 6 (#51ce90)
+U 10 (#30bf51)
+L 3 (#18bb20)
+U 6 (#0aacb3)
+L 5 (#06f190)
+U 4 (#03dc91)
+L 4 (#71bcb0)
+U 9 (#4ce7b1)
+R 7 (#81ff02)
+U 3 (#6b0b11)
+R 5 (#864392)
+U 3 (#4bd3e3)
+R 5 (#a07392)
+D 6 (#3694a3)
+L 7 (#16a222)
+D 5 (#826881)
+R 7 (#049c02)
+D 3 (#2813e1)
+R 5 (#7c6110)
+U 14 (#40a881)
+R 4 (#333260)
+D 6 (#062261)
+R 9 (#51ee00)
+D 5 (#64b4e1)
+R 2 (#2da420)
+D 5 (#a4ab31)
+R 10 (#38e550)
+D 7 (#156261)
+R 2 (#0b3aa0)
+D 6 (#78a263)
+R 7 (#926d10)
+D 5 (#4e8ce3)
+L 11 (#136420)
+D 8 (#5e2713)
+R 11 (#58d872)
+D 4 (#772153)
+R 4 (#58d870)
+D 6 (#3f8e33)
+R 7 (#136422)
+U 6 (#2f6493)
+R 4 (#851de0)
+U 3 (#4b0281)
+R 10 (#79ea40)
+U 9 (#366871)
+R 6 (#3a4780)
+U 4 (#7fdd21)
+R 3 (#54ed42)
+U 6 (#11cd91)
+R 7 (#4fae92)
+U 9 (#6b0051)
+R 2 (#4fae90)
+U 10 (#4616d1)
+R 4 (#54ed40)
+U 5 (#473da1)
+R 4 (#39cba0)
+U 10 (#32db93)
+R 5 (#7edab0)
+U 2 (#1c7dc1)
+R 4 (#2a7570)
+D 8 (#5d0fd1)
+R 7 (#5588b0)
+U 5 (#48a261)
+R 5 (#1bb440)
+U 6 (#187c71)
+L 6 (#32c080)
+U 5 (#29f291)
+R 6 (#1aa790)
+U 5 (#54cf81)
+R 3 (#7265a0)
+U 5 (#4d8a91)
+L 8 (#204d90)
+U 7 (#4d8a93)
+L 3 (#834a30)
+U 3 (#09c801)
+R 11 (#26e812)
+U 6 (#7a9971)
+R 6 (#3755c2)
+D 9 (#21dba1)
+R 7 (#3e8ea2)
+D 8 (#2bb851)
+R 6 (#345db0)
+D 3 (#0c8f41)
+L 3 (#28b9b2)
+D 5 (#9280c1)
+L 5 (#28b9b0)
+D 3 (#228ac1)
+L 7 (#0df740)
+D 5 (#875d71)
+R 11 (#4a5390)
+D 5 (#8c7ac3)
+R 4 (#417ff0)
+D 4 (#12dc63)
+R 11 (#5a6802)
+U 8 (#616af3)
+R 3 (#5a6800)
+U 5 (#64b733)
+R 3 (#99d5b0)
+U 6 (#028b31)
+R 9 (#0faf30)
+D 4 (#6d4e01)
+R 2 (#3a2e20)
+D 5 (#510df1)
+R 3 (#3a2e22)
+U 3 (#436be1)
+R 8 (#0faf32)
+U 7 (#612641)
+L 8 (#53daf0)
+U 9 (#4e71a1)
+R 5 (#303c32)
+U 5 (#3f3233)
+R 8 (#883082)
+D 11 (#6551a1)
+R 3 (#2bd002)
+D 8 (#0827a1)
+R 2 (#41c340)
+D 5 (#6f0651)
+R 7 (#53d550)
+D 4 (#33aa31)
+R 7 (#959892)
+D 7 (#1a9fb1)
+R 3 (#530212)
+D 7 (#21c6e1)
+L 7 (#2cccb2)
+D 8 (#3904a3)
+L 3 (#55d040)
+U 8 (#2571f3)
+L 6 (#1cd6f2)
+D 2 (#a6b293)
+L 5 (#1cd6f0)
+D 9 (#25fc03)
+R 8 (#55d042)
+D 4 (#216b33)
+R 3 (#4b8c82)
+U 4 (#3f3231)
+R 7 (#0c4122)
+D 6 (#2e8ab1)
+R 3 (#456be2)
+D 7 (#7e5b83)
+R 4 (#4c7d22)
+D 2 (#7e5b81)
+R 8 (#653352)
+U 7 (#5fbd33)
+L 3 (#045090)
+U 8 (#084453)
+L 3 (#5ac5f0)
+U 6 (#191693)
+R 6 (#0266c0)
+U 5 (#2aa953)
+R 4 (#849b60)
+U 7 (#710533)
+R 11 (#870222)
+D 4 (#1a6bb3)
+R 2 (#6c7bd0)
+D 11 (#070a93)
+R 2 (#18f422)
+D 4 (#23a2c3)
+R 11 (#6d8742)
+D 5 (#23a2c1)
+R 9 (#40c662)
+D 6 (#5e1ff3)
+L 6 (#045092)
+D 3 (#555013)
+L 5 (#1b7a52)
+D 7 (#1223b3)
+R 9 (#88fb52)
+D 4 (#1223b1)
+R 2 (#081112)
+D 5 (#021341)
+R 8 (#15ace2)
+U 8 (#9fcf21)
+R 4 (#3c2d32)
+U 7 (#1d7ea1)
+L 4 (#801282)
+U 3 (#6e9741)
+R 5 (#920a22)
+U 5 (#346411)
+R 9 (#565a92)
+U 4 (#6835d1)
+R 7 (#1beb32)
+U 10 (#274661)
+R 7 (#837f12)
+U 6 (#151c81)
+R 11 (#2e8672)
+D 6 (#045641)
+R 3 (#6bd070)
+U 2 (#8c36f1)
+R 5 (#188a00)
+U 11 (#3f41b1)
+L 5 (#438682)
+U 4 (#811531)
+L 9 (#464c82)
+U 3 (#41f311)
+L 7 (#89d300)
+U 4 (#07c411)
+L 5 (#71f5b0)
+U 6 (#3c3e01)
+L 5 (#824660)
+D 10 (#40e461)
+L 8 (#005ef0)
+U 6 (#2f3c93)
+L 8 (#541d20)
+U 6 (#7291b1)
+R 4 (#176280)
+U 11 (#7291b3)
+R 3 (#4c0380)
+U 4 (#2f3c91)
+R 13 (#447a00)
+D 4 (#40e463)
+R 12 (#134f60)
+U 7 (#08ebc1)
+R 5 (#000250)
+U 4 (#2ec1e1)
+R 7 (#08c350)
+U 6 (#6b24b3)
+R 4 (#137870)
+U 6 (#0e1503)
+R 11 (#96d010)
+D 3 (#410e73)
+R 2 (#0cfb40)
+D 4 (#433481)
+R 3 (#159fe0)
+D 7 (#2e33d1)
+R 5 (#159fe2)
+D 6 (#48dfd1)
+R 5 (#105850)
+D 4 (#5f6db1)
+L 8 (#1f2742)
+D 8 (#421cc1)
+L 5 (#2f0ce2)
+D 5 (#24b4d3)
+L 7 (#701502)
+D 6 (#24b4d1)
+L 4 (#121892)
+D 5 (#038801)
+R 3 (#055ce2)
+D 3 (#0197b1)
+R 5 (#09cfa2)
+D 6 (#2ef9b3)
+R 6 (#86b022)
+D 4 (#2ef9b1)
+R 2 (#18b6d2)
+D 11 (#1b0c63)
+R 5 (#208782)
+D 3 (#377051)
+R 3 (#767142)
+D 13 (#377053)
+L 5 (#31fba2)
+D 6 (#1b0c61)
+R 4 (#0b0542)
+D 9 (#0197b3)
+R 2 (#516d92)
+D 2 (#26a151)
+R 9 (#590c20)
+D 8 (#59d3f1)
+L 11 (#64b270)
+D 8 (#9a2131)
+R 10 (#34a6c0)
+U 5 (#3300e1)
+R 5 (#943c80)
+U 2 (#45c371)
+R 11 (#2904a0)
+U 3 (#4f4011)
+R 5 (#1045f2)
+U 9 (#9f9df1)
+L 5 (#1045f0)
+U 5 (#03ff31)
+R 7 (#48cc20)
+U 3 (#174d21)
+L 2 (#65e6b0)
+U 9 (#360483)
+L 6 (#42a0b0)
+U 3 (#89d053)
+L 9 (#3f0d10)
+U 10 (#744613)
+L 5 (#503e00)
+U 3 (#9f85a3)
+L 5 (#156fd0)
+U 3 (#3a3a03)
+L 4 (#7aa2a0)
+U 8 (#690943)
+L 6 (#5412a0)
+U 5 (#262f51)
+R 4 (#03c872)
+U 6 (#521ed1)
+R 6 (#193322)
+U 4 (#674f11)
+R 3 (#6f2462)
+U 10 (#5131a1)
+R 2 (#1155f2)
+U 6 (#525651)
+R 11 (#033872)
+U 4 (#995501)
+R 11 (#182650)
+U 7 (#475891)
+R 6 (#24df30)
+D 9 (#33eb31)
+R 4 (#24df32)
+U 9 (#465211)
+R 7 (#182652)
+U 9 (#3aa201)
+R 9 (#033870)
+U 3 (#1a0ae1)
+R 5 (#22b482)
+D 6 (#56b2f1)
+R 11 (#623122)
+U 6 (#817c81)
+R 9 (#623120)
+U 4 (#38f971)
+R 5 (#626642)
+D 5 (#63e353)
+R 2 (#0d8b02)
+D 8 (#4fe853)
+R 5 (#4789f2)
+D 12 (#2cb943)
+R 6 (#4f8292)
+D 3 (#3ea3f3)
+R 6 (#533a72)
+D 3 (#78a803)
+R 5 (#52bd42)
+D 11 (#78a801)
+R 3 (#075332)
+D 5 (#201683)
+R 6 (#1da752)
+D 6 (#41e543)
+R 3 (#995702)
+D 5 (#0a2153)
+R 6 (#4d9f32)
+D 10 (#534cd3)
+L 8 (#3f7340)
+D 2 (#3892a3)
+L 5 (#3f7342)
+D 10 (#35d9a3)
+L 7 (#0ee870)
+U 10 (#5e8cb3)
+L 7 (#0aed10)
+D 9 (#5ea061)
+L 6 (#388af0)
+D 8 (#690071)
+L 11 (#50f1b0)
+D 3 (#24d793)
+L 5 (#0c6f42)
+D 6 (#75d573)
+L 2 (#0c6f40)
+D 2 (#2cf3d3)
+L 10 (#43a410)
+D 3 (#260e33)
+R 12 (#1c47d2)
+D 6 (#417d13)
+L 6 (#61c132)
+D 8 (#5496b1)
+L 3 (#532302)
+D 8 (#5496b3)
+L 7 (#422062)
+D 4 (#1f66c1)
+L 7 (#527132)
+D 9 (#393951)
+L 6 (#293122)
+U 4 (#58cf41)
+L 6 (#2124e2)
+U 9 (#49f2f1)
+L 4 (#966df2)
+D 9 (#033483)
+L 3 (#3276c2)
+D 3 (#71e053)
+L 3 (#5912a2)
+D 8 (#647a43)
+L 8 (#58caf2)
+D 5 (#74f4e3)
+L 3 (#5033a2)
+U 3 (#345423)
+L 3 (#14f432)
+U 7 (#44c9c3)
+L 4 (#8c0842)
+U 6 (#6cd493)
+L 6 (#0ca462)
+D 5 (#2dd8d3)
+L 11 (#6ae062)
+D 5 (#561703)
+R 11 (#510c02)
+D 5 (#55d0c3)
+L 5 (#510c00)
+D 5 (#227663)
+L 4 (#26ebc2)
+U 6 (#37ff33)
+L 11 (#546b60)
+D 4 (#3bcd93)
+L 7 (#56a5b0)
+D 2 (#3bcd91)
+L 7 (#105310)
+D 4 (#4fcbf3)
+L 8 (#23b2a2)
+D 5 (#a78353)
+R 8 (#378f32)
+D 3 (#0083b3)
+R 8 (#33e382)
+D 6 (#a80701)
+L 3 (#2c3ed2)
+D 9 (#4b8ea3)
+L 6 (#7d4c12)
+U 9 (#05b6a1)
+L 7 (#53a692)
+D 7 (#2c9d93)
+L 7 (#9fd9b2)
+D 4 (#2c9d91)
+L 3 (#376372)
+D 8 (#05b6a3)
+L 6 (#15c4e2)
+D 7 (#2eb9b3)
+L 8 (#75eb42)
+D 4 (#653fc3)
+L 12 (#75eb40)
+U 2 (#7f4873)
+L 4 (#0286d2)
+U 12 (#9fd9f3)
+'
+]
+
+{ #category : 'data' }
+AOCTest >> data19 [
+
+	^ 'mxf{m<2310:phv,zs}
+zjr{s>1167:zqt,skq}
+hm{x>2975:rkl,x>2818:vhs,a>1062:bkc,kjg}
+dkl{m>2321:ctj,x>3530:A,gj}
+zk{s<1218:R,A}
+zkd{m>864:A,a>488:R,jcp}
+zdl{m>3429:A,m>2961:R,R}
+xmd{a<576:A,a<1045:R,a<1386:R,A}
+kzz{m>1106:R,a<508:R,x>2970:A,R}
+gdr{x<139:R,x<183:A,s<222:A,R}
+rb{m<3239:R,a<3546:A,A}
+xns{x<621:vrz,gm}
+nd{s>2927:xnx,x<3488:A,a<434:pg,A}
+fl{s<3624:qg,m>952:qf,kjt}
+vhm{x<3815:R,s>1774:A,m>643:R,A}
+krp{a<2439:R,m>298:R,x<1440:R,R}
+njj{x<2856:cjc,x<2936:R,a>598:R,kzz}
+jp{m>1745:R,x<1239:A,a<625:lt,qbq}
+rhd{a<3515:R,a<3543:A,s<3959:R,R}
+htm{a>284:R,m<1961:R,s<2226:R,A}
+kjj{a>704:fcn,s<439:lq,R}
+jkk{s>1376:R,a<341:A,A}
+jt{s<3384:A,x<3143:R,xgd}
+bcm{a<1408:R,m<425:R,A}
+hc{s>1126:A,m>1159:A,R}
+jff{a>3411:A,s<804:jn,A}
+knh{s>2643:szq,A}
+klj{x>1392:A,a<2628:R,R}
+kfx{a>1268:R,A}
+cxd{a>1275:A,s>1768:R,R}
+clq{a>1293:R,x>3243:R,R}
+mpc{a<2362:R,R}
+ng{a>578:A,x>1430:A,R}
+hh{a>2697:A,s<1336:R,a<2167:A,A}
+cjc{a<661:R,s>1113:A,x<2787:A,A}
+fgv{m>3553:R,m<3400:A,m>3492:A,A}
+pqk{m<110:R,A}
+zqt{m<1713:mg,s>1555:jfx,s<1309:zm,A}
+jrz{a<665:nh,tgp}
+vsf{s<2496:R,R}
+xdc{a>2214:R,A}
+kkm{s>3217:A,x<3895:R,a<857:A,R}
+sbh{s>1082:ct,sgx}
+kcn{x<3313:A,x<3389:mmt,phd}
+sgg{a<817:rf,s>2209:nhz,R}
+jd{s>2746:R,a>2645:R,R}
+pb{x>2553:A,qb}
+hq{a<1200:A,a<1322:A,m<968:R,R}
+kfz{x<3631:A,R}
+fvf{a>917:drd,s>3325:qt,kcn}
+ctj{m>2668:R,A}
+tbl{x>2400:ql,m<2122:cs,m>2504:rq,tpp}
+kn{m<1806:R,a<588:R,x>3133:R,A}
+sv{a<1325:R,a>1460:R,m>1718:R,A}
+rkl{x>3112:A,s>3342:R,R}
+mg{m>1291:R,A}
+tm{x>1917:bs,A}
+rkq{a<2465:bxc,x>1862:nxc,sp}
+tk{a<1228:A,a<1455:R,A}
+vts{s>3466:jq,xns}
+nh{x<2134:rr,x<2484:pbv,m<976:lvp,mv}
+sz{x<3075:R,m>359:R,R}
+btr{x>3197:qkh,ph}
+ff{m>1946:A,s<2407:zc,A}
+cmk{s>2606:R,A}
+jr{a>804:A,a<475:R,R}
+rf{x<415:A,s>2228:R,a<735:R,R}
+drd{s>3365:tk,s<3276:bcm,A}
+hvq{s<2401:hsn,s>3374:fl,xdl}
+vpn{s<1325:fvm,m<689:R,R}
+vj{s<1347:A,x>673:R,R}
+tnz{s>999:A,x>2657:gk,A}
+rft{a<401:pqp,qdm}
+gkm{m>430:A,m>196:A,s>3374:R,A}
+vhs{m>623:R,R}
+zzt{x>3410:A,m>2991:R,m<2312:A,A}
+pth{x<3816:A,s>3893:A,R}
+vmd{s>3539:zr,gr}
+dlh{x<3015:R,A}
+lv{a<2026:A,m<292:R,x>588:R,A}
+pr{x>3172:rjk,a<1192:R,m<595:A,A}
+dzq{a<812:bgx,s>1212:nhn,nnd}
+kxf{x>3058:R,A}
+tgp{a>1311:kkg,a>960:jx,hmf}
+npv{s<668:A,x>1167:A,R}
+pd{a<1327:A,a<1446:rp,R}
+krf{m>228:A,A}
+cg{m<3308:nr,a>1054:fxs,cgf}
+qd{a>2742:qmb,x>1719:mt,s>818:nrs,mpc}
+bsc{x>1586:R,a<1207:R,R}
+kcb{a<1236:A,s<1368:A,A}
+mf{a<2852:zv,m<2664:prx,rb}
+pnj{a<754:R,rcb}
+zr{x>1721:A,x>683:R,x>265:R,A}
+bn{s>1397:A,a<219:R,R}
+hx{a>953:A,a>428:A,x>539:R,R}
+jv{s<837:pr,fsl}
+qmb{s<1185:R,A}
+zcf{x>784:A,R}
+jpf{s<2409:A,s<2671:A,x<1126:A,R}
+kj{a>836:jv,x>3467:tjj,rl}
+cnc{s<3455:A,s<3662:R,a>1191:A,R}
+vbg{s>2501:R,x<3479:xhj,x>3748:R,R}
+in{a>1666:mb,x<1861:dql,sl}
+xg{x<749:dgs,A}
+pj{m<830:R,R}
+jb{m>3287:A,m>3057:gfh,A}
+zdp{a>3403:R,a>3071:R,m>808:R,A}
+ggc{x>1433:A,s>2595:R,R}
+pxr{s<3463:R,m<792:R,A}
+lk{x<724:R,s<3706:A,trm}
+mjv{s<3762:A,bxn}
+hl{a>556:ks,s<2836:A,m<1771:kc,kjd}
+gf{x>1994:R,m<3457:xkg,s>3446:R,A}
+bxz{m<718:R,A}
+bv{s<2868:ggc,R}
+pg{a<269:A,x>3764:R,m>3066:R,R}
+vxn{s>1686:R,a>1312:R,m<2228:A,A}
+jj{a>673:A,R}
+zsx{x>3204:R,A}
+cs{s<1229:A,R}
+qdm{a<550:A,m>833:R,A}
+vkl{s>365:A,x<236:gdr,s<161:zt,vxr}
+cb{x<1464:A,x<1513:R,m<1814:R,R}
+fn{m>2717:A,s>3698:A,R}
+jzq{x>330:A,m>2865:R,A}
+gn{a<1001:A,R}
+cvv{m>817:fr,x<1974:mrv,m<316:vd,kh}
+spl{a<1511:R,A}
+qg{a<3083:csf,a>3444:mz,vmd}
+tf{x>3535:R,a<669:gxm,s>2146:clq,A}
+sg{s<463:lx,s<936:tq,R}
+pnb{s<1080:R,m<3125:A,m<3446:A,R}
+phd{x<3427:A,R}
+hmf{a>804:gsn,s<1343:btv,vsf}
+cdj{a>358:mdl,a<238:A,nk}
+xs{x>2559:A,m>1333:A,A}
+phv{m<2219:R,m<2257:R,x<565:A,A}
+rx{s<2069:nvr,m>2736:qr,R}
+vld{x>969:A,s>1063:A,m<689:R,A}
+drn{s>1516:kx,m<611:kbn,jff}
+jlg{s<2849:tgr,qlb}
+nrn{a<1365:xmh,a>1565:A,x<1595:R,fgv}
+fx{x>3184:R,a<1161:R,x<2964:A,R}
+nfm{m<3293:R,m<3660:A,A}
+cft{a<735:A,a>1165:jdq,m<1013:ctl,xdg}
+grs{x<630:chb,bp}
+tsq{s<3424:klj,s>3632:rkq,tj}
+ll{a<566:R,R}
+zc{m<1722:A,x>1506:A,x>1464:R,A}
+tmx{s>3389:A,x>2770:A,R}
+jdq{s>1592:A,R}
+hhb{m<728:R,s<3217:bf,kfz}
+chb{s>1613:A,A}
+zcv{m<1690:A,a>1254:cb,R}
+gdt{s<2338:R,a>529:R,A}
+lrd{s>1816:A,s<1737:R,x>3648:vhm,mxs}
+dl{s>1645:A,A}
+rdr{m<3263:lmt,nrn}
+dbp{x>1326:R,A}
+vr{m<2215:R,A}
+dqb{m>1367:A,s>3854:A,A}
+mj{x<3291:xmd,m<1474:A,x>3594:fp,mk}
+cvq{s<3167:vz,x>3484:dzt,m>1895:qsk,dj}
+hrq{m>912:zn,s<2570:pk,x<3198:A,A}
+tq{m<525:A,A}
+cx{s>971:xbb,a>2286:R,s>558:lv,R}
+vlz{s<432:bdx,m>419:R,m<201:fh,cm}
+hsm{x>3894:psb,s>3500:A,zh}
+pmv{m>1260:xn,x<1634:tkk,A}
+mt{m<3482:lps,R}
+qs{x>214:R,m<2255:A,A}
+pf{m>399:R,x>3064:R,R}
+fd{s>3477:A,R}
+cmp{a>553:A,R}
+gbx{s>657:R,m>939:A,m<824:A,A}
+hsn{a>2953:drn,m>656:kzh,x<1575:xm,vpx}
+vmr{a<696:A,m>594:R,s<2925:A,R}
+hv{m>2584:R,m>2556:A,R}
+gq{m<3154:A,x>3367:hmd,rsn}
+tpc{x>3467:A,m>1865:A,m<1087:R,R}
+vf{x>567:A,R}
+xq{s>2490:ll,jj}
+dx{m<213:mx,x<981:qtt,a<1191:A,ktx}
+sq{s<518:jtt,a<1365:fbb,spl}
+ds{m<1024:R,x<1332:A,A}
+nn{m<337:srx,tx}
+xf{a>645:cnc,R}
+ltv{m<3188:cp,pt}
+gjp{a<3444:R,A}
+tbx{a>2651:bv,zx}
+qf{a<3156:cmf,s>3778:gkk,x<1377:lk,jqq}
+qdf{m>3031:A,s>3921:cqp,fg}
+zx{s>2703:R,s<2561:gts,a>2305:A,snk}
+xlj{a<240:R,R}
+rl{x>3006:cdj,a>458:njj,vpn}
+psq{a>939:tnp,m<1665:mnk,rpj}
+bc{a<486:knh,m<3114:gth,lcr}
+zq{x<1396:R,x<1668:A,R}
+xm{x<973:cx,llb}
+fzx{x>1946:A,x>1916:A,s>2523:dgq,bz}
+gr{s<3443:A,R}
+rsh{m<2322:A,R}
+lzn{m<3606:A,m<3836:vql,a<423:R,R}
+rsn{s<2344:A,a>1284:A,m<3610:A,A}
+rg{m<752:A,s<3018:A,s<3072:R,R}
+drs{a>2000:A,A}
+ctl{s<1467:R,x>675:R,a<885:R,A}
+fvm{a>168:A,s>868:R,R}
+mtn{a>310:R,R}
+rbt{x>3216:R,A}
+dzt{m<1618:prn,zxd}
+cp{x>616:A,m<2469:qs,R}
+zkk{a>806:R,s<1275:A,a>636:A,R}
+jrp{a>1285:A,A}
+crv{m>183:R,x>1678:mbr,A}
+mk{m>2781:R,x<3408:R,x<3508:A,A}
+qvp{x<2839:R,s>2645:A,R}
+tj{m>3041:jxs,m<2346:R,A}
+gj{s<1310:R,R}
+dd{a>700:dx,s<1439:xg,rfd}
+ptj{m>919:cft,a<819:bq,grs}
+qbq{a>1005:A,x>1477:A,A}
+nmh{a>884:R,a>308:R,s<2046:R,hnp}
+lx{a<901:A,m>593:R,R}
+pqd{x>1493:A,x<1235:A,A}
+bnh{m<1280:R,s<3302:R,R}
+tv{a<332:zg,gdt}
+rnd{a<1518:R,a>1596:A,A}
+jlb{a>2132:R,s>736:R,x<1111:A,R}
+mmz{x>992:R,a<1403:R,x<929:A,R}
+qfp{m>1069:R,A}
+pt{s>1650:vf,s>1452:R,x<446:A,vj}
+tkk{s<1160:A,m>1174:R,a<673:R,A}
+kx{x>2642:R,s<1888:A,R}
+dq{x<1992:sc,x>2131:mjs,cmp}
+xbb{s>1608:A,a<2166:A,s<1285:R,A}
+btv{s>646:R,A}
+br{a<1023:kxf,sds}
+nr{m>2923:R,s>3647:R,m>2756:R,R}
+nhn{x<1067:ltv,rdr}
+mbr{x>3214:A,A}
+mrv{m>400:R,m<212:A,A}
+vpx{a>2478:tnz,s>821:nn,a<2119:vlz,vkv}
+hn{x>2956:A,A}
+jz{a<775:R,A}
+pqp{m>731:A,A}
+gbf{a>1519:pvj,m>715:gbx,rm}
+mz{m>549:R,x<2243:krf,a>3781:R,jm}
+gth{m>2216:brs,m>1852:xxk,a>662:R,A}
+bmn{s<892:A,R}
+pgh{s<2509:A,m<3134:R,R}
+kqd{s<2377:A,A}
+nhq{x>538:A,s<315:R,m<296:R,R}
+zhr{m>2625:kqd,tp}
+nrt{s<1274:A,x<1313:A,A}
+mp{a>2286:jd,psr}
+zn{m>1099:A,R}
+vkv{m>221:pf,s<542:qm,m<110:A,A}
+xdl{a<2851:nqc,s<2936:cvv,x>1808:kp,km}
+kfs{a>1392:bcv,s>2659:A,R}
+rcl{s>3400:R,m<528:A,R}
+fsl{s>1571:cxd,m>988:jrp,A}
+bd{m<486:R,R}
+sr{x<445:A,zdl}
+qt{s<3423:gkm,x<3311:A,m>745:R,bqz}
+zfp{x>1123:nqq,A}
+gbd{a>1434:A,x<2274:A,m>947:R,R}
+kbn{x<1675:R,sz}
+mb{m<1446:hvq,ch}
+bcg{a>2036:A,a<1912:A,R}
+mv{s<2113:jkk,s>2853:fd,xs}
+dgq{a<1317:R,m>2464:R,m<2017:A,A}
+dt{s<2641:R,m<702:A,R}
+stf{m<199:A,R}
+sh{m>261:R,a<915:A,R}
+dv{a>2613:A,R}
+zd{a<554:cdx,a<841:kjj,x<798:mlm,sg}
+jn{a<3252:A,x<2123:R,A}
+lvp{a>277:A,nf}
+fh{m>123:R,A}
+lt{x>1632:R,s<654:R,a<325:R,R}
+lcr{a<720:A,m>3584:A,R}
+jfx{s>1699:R,x>616:A,A}
+hg{s<2617:xmj,a<850:R,s>2800:A,A}
+vpd{m<2602:R,a<1388:R,x<2900:rnd,A}
+mc{x<1595:A,x<1769:R,x>1809:A,A}
+hnq{x>2458:A,s<1704:R,A}
+bp{x<1089:A,x<1479:A,R}
+lps{x>2602:R,A}
+gmh{m<2825:R,A}
+dmp{a<1343:dl,x<2089:A,x>2165:A,R}
+bbg{x<415:A,m<580:A,a>1069:mdk,nj}
+qlb{m<838:nl,m<1169:pq,x<799:pl,dxj}
+ms{s<3815:hn,a<1068:lqt,qdf}
+lh{s<885:vkl,m>1432:pn,a>1109:pd,vb}
+fg{s<3875:R,m<2292:A,x>2987:A,R}
+sgx{x>2162:R,x>2109:A,R}
+fb{x>2219:bc,sx}
+gh{a<2425:R,R}
+zj{s<1096:xlj,R}
+rc{a>1099:R,m>1634:jpf,x<1066:A,R}
+lxp{a>1410:tpc,s>2961:qgx,R}
+rsc{m<134:A,m>220:A,R}
+xr{s<789:pj,m>812:hq,s<967:xvt,vld}
+jq{a<892:zcf,m<3084:fn,R}
+jx{m<668:bzx,a>1083:R,A}
+ft{s>2537:R,x>3546:R,x>3014:A,pgh}
+db{a<998:R,s<1612:R,x>2784:A,R}
+vd{s>2660:pqk,a<3336:rsc,a>3760:hvb,A}
+cn{s>2852:R,m>2099:rsh,dxk}
+tjz{x<3743:R,s>3348:ssv,s>3252:R,kkm}
+nlt{a<205:R,x>1400:R,a<276:A,A}
+xvt{m>687:R,x<799:A,A}
+hp{m>1850:hg,m<1700:rc,s>2663:hl,jr}
+kch{m>1902:A,R}
+llb{s<1505:R,x<1208:R,x>1337:krp,R}
+tmk{x<647:tcj,x<1410:hp,x>1663:xq,cgj}
+psj{x<2003:hnh,R}
+szq{x<2455:A,x>2571:R,R}
+nxc{s<3784:A,s<3926:A,x>3006:A,A}
+ph{x>2866:ts,ngq}
+zh{a>920:A,R}
+md{x>809:hf,x<467:lh,zjr}
+kd{a<1002:jt,x<3170:vpd,pfg}
+sc{x<1928:A,a<406:R,m>2129:R,A}
+vg{a<2146:R,m<798:R,s>1349:R,A}
+clg{s<1574:A,A}
+gd{a<1867:R,s>1838:R,m>3359:R,A}
+dxk{a<463:A,s<2763:R,s<2797:R,R}
+prx{a>3468:vk,m<2059:rbt,x>3171:hk,qvp}
+fcn{x<1040:R,s>626:R,x<1572:A,A}
+srx{m>147:R,m<80:A,R}
+dzv{x>2236:zhr,a<1268:zll,tt}
+bx{s>2165:A,x<3424:A,s<2155:A,R}
+sx{m<2846:dq,s<2128:mq,s>3114:gf,lzn}
+mmt{m>667:R,R}
+zll{s>2412:sfz,x>2017:sbh,tm}
+hnp{s>2072:R,R}
+pl{x>413:R,m<1336:R,x<211:R,jz}
+dr{a>1530:R,A}
+qzf{s>2145:bx,a<1033:R,kfx}
+rj{a<3192:A,s>3193:R,m>697:A,A}
+fnd{x>449:A,s>115:R,R}
+vk{m<2203:A,s>2735:R,x>3249:R,A}
+vxh{m>559:bxz,x<777:R,R}
+tpp{x<1376:hh,bmn}
+nk{s<810:R,a>313:A,a>264:R,A}
+nvr{s>792:A,x>1945:R,R}
+zxd{x<3810:xf,m<2542:hsm,cg}
+kz{s<606:R,m>1077:A,A}
+bkc{x>2757:A,R}
+xnx{m>3422:A,a>711:R,s<3019:R,A}
+tjf{a<744:R,a>1261:A,a>1039:fx,zsx}
+kc{m>1735:R,A}
+tgr{x>786:xjb,bbg}
+td{a>3522:xqd,x>2536:R,x<2142:dlg,rj}
+zrh{m>1071:md,s<1184:kg,jrv}
+gsn{a<885:A,a>912:R,R}
+ldb{a>254:R,R}
+qx{a>982:A,m<2418:R,R}
+kp{s<3127:rg,s>3291:pb,x<3205:td,hhb}
+rr{s<2162:R,R}
+sj{m<572:R,A}
+st{x<2946:A,x>3298:A,a<700:R,R}
+sp{m<2339:R,s>3855:A,R}
+zzx{m<3186:dm,xl}
+bcv{s<2617:A,a>1559:R,x>1488:A,A}
+xhj{s>2477:A,R}
+fp{x>3859:R,R}
+nx{m<1903:A,bsc}
+gpf{m<821:A,m>1201:R,s<3661:R,R}
+bxc{x>1591:R,A}
+mx{m>85:R,R}
+dql{s>1910:lpf,m>2088:dzq,zrh}
+fvx{a<1533:A,A}
+snb{m>1043:A,s<1569:vg,m<829:A,mh}
+rp{x<289:A,A}
+xxk{m<1974:A,s<1985:A,R}
+qr{s<3186:A,a>1382:R,s>3578:A,A}
+jrv{m<380:dd,m<830:hhr,ptj}
+skq{x>635:A,hx}
+rpj{s>3338:kn,a>391:A,R}
+zs{m>2355:R,a>863:A,s<3650:A,A}
+rvd{s>1220:R,s<494:jzq,s<762:nlj,A}
+qm{x<2515:R,R}
+sqt{a<1023:A,R}
+lcl{m<2710:A,m<3464:R,m<3759:R,R}
+gkk{s<3899:R,a>3581:A,a<3426:R,rhd}
+fr{s<2683:njl,R}
+nhz{a<947:A,m>1908:R,m>1673:A,A}
+rlp{s<774:A,R}
+bf{s<3175:A,R}
+psr{x>1061:R,a<1875:A,x>357:R,A}
+nqs{x<319:A,s<3699:A,x>463:kch,R}
+fxs{s<3617:R,a<1444:A,A}
+dxj{m>1297:gn,flt}
+mhl{m>1106:R,s>1412:A,s<1288:R,R}
+cgf{x<3874:R,m>3565:A,A}
+qtt{x<603:A,m<300:R,x>743:R,R}
+sd{x<3134:A,x>3645:qfp,x<3407:hc,R}
+lpf{m>2444:cz,m<1547:jlg,s<3133:tmk,bt}
+bbp{a>1097:lxp,m<2430:mvh,nd}
+kkg{s>1504:fvx,s>961:gbd,x<2356:dr,A}
+vxr{m<1531:A,m<1719:R,x<357:R,R}
+mvh{m<1146:vmr,a<380:R,R}
+csf{x>2650:pxr,a<2576:R,vv}
+qzs{m<868:R,x<471:A,R}
+sl{x<2677:hrh,s>1997:cvq,xpq}
+hnh{s<2435:A,a<1516:A,a>1606:R,R}
+bq{x<943:qzs,m>870:cr,mvd}
+rq{a>2886:nrt,m>2662:gh,hv}
+dm{a<495:mtn,a>678:bpt,ng}
+mxs{a>470:R,x>3575:A,A}
+gxm{m>1455:A,a>431:R,R}
+bzx{a>1117:R,s<2331:A,A}
+tcj{a>1108:jkx,s>2661:cn,a>647:sgg,htm}
+zl{x<1326:R,a<186:R,A}
+bqz{a>544:A,a<307:R,A}
+xkg{x<1915:A,A}
+cdx{a>339:rlp,x<772:A,a>152:npv,jk}
+bz{a>1306:R,x<1884:R,x<1901:R,A}
+hd{x>441:A,m>802:A,A}
+kh{x>3037:R,cmk}
+mn{a<482:A,A}
+pk{s<2557:A,R}
+nqq{a>559:A,s<3600:A,x>1458:A,R}
+nrs{a>2275:R,a>2016:R,gd}
+rpk{s<2091:nmh,s>2183:mj,m<2279:tf,qzf}
+mlm{x<388:R,m>571:A,s<752:nhq,sh}
+jxs{a>2736:A,R}
+ks{x<974:A,a>1269:A,x>1159:R,R}
+xmh{m<3623:A,m<3765:A,R}
+hrh{m<1654:jrz,a<980:fb,dzv}
+tp{m<2079:hnq,kcb}
+fv{m>1406:ft,s<2551:vbg,hrq}
+bpt{a<758:A,m<2540:A,R}
+vql{x<1984:A,a>515:A,a<192:A,A}
+bs{m>2823:A,A}
+nf{m>644:R,R}
+ssv{s<3440:A,A}
+rfd{s<1718:clg,s>1797:stf,m<251:R,A}
+lq{a>646:R,x>1191:R,R}
+rv{a<531:zj,rvd}
+tz{s>403:A,s>222:R,A}
+gk{a<2728:R,x<3291:A,a>2857:R,R}
+vjj{x>745:zfp,nqs}
+cqp{x>2993:A,m<2484:R,a<1361:A,A}
+xqd{s>3201:A,R}
+cr{s>1438:A,a<283:A,x<1533:A,A}
+xdg{s>1494:A,R}
+xjb{s<2508:pqd,s>2732:xcm,s>2589:dt,ds}
+nnd{a>1189:sq,dck}
+brs{s<1860:A,x>2522:R,A}
+jm{s<3472:A,m>227:A,m<99:A,A}
+mh{m<948:A,m>1009:R,R}
+lm{s<2631:A,A}
+qgx{m>1733:A,a<1279:A,s>3061:R,A}
+kjg{m>757:tmx,A}
+njl{a<3412:R,s>2568:R,s>2458:R,A}
+mnk{m>1403:phx,m>1317:R,a>417:st,bnh}
+vb{a>478:zkk,bn}
+tnp{x<3103:A,x>3353:dkv,m<1534:A,sv}
+plz{a<2245:A,A}
+hhr{s>1496:vxh,sj}
+nv{m>3730:R,R}
+km{x<978:hd,rqf}
+dgs{m<245:A,s<1274:A,R}
+tnb{s>3817:pth,x>3774:A,gpf}
+cq{a<1034:mn,mmz}
+dck{s>410:cxs,m<2779:qx,jb}
+cm{a>1896:R,A}
+kms{a>2292:R,x<1613:drs,m>1261:bcg,A}
+bdx{m>310:R,s<240:A,s>356:R,A}
+rqf{s>3178:A,zdp}
+xmj{m>2206:A,R}
+hf{m>1482:jp,x<1267:cq,pmv}
+vv{s<3498:A,x>954:A,x>375:A,R}
+bxn{m>622:A,x<3163:A,A}
+lqt{m<3266:A,a<374:A,a<656:R,A}
+kjd{a>215:R,A}
+lvs{s<2888:lm,A}
+jcz{x>988:xd,mxf}
+bt{m<2092:vjj,jcz}
+gm{a>795:A,m>3022:R,R}
+prn{s>3549:tnb,tjz}
+tjj{s<1166:zkd,s>1652:lrd,x<3663:sxt,rft}
+tt{a>1417:psj,x>2002:dmp,a>1352:rx,fzx}
+nj{m<1121:R,R}
+qkh{m>3145:pnj,dkl}
+ch{s>2396:dg,cv}
+zm{x>625:A,x<542:A,m>1927:A,R}
+lmt{m>2506:R,s<1559:R,m>2329:mc,vxn}
+fbb{a<1249:R,s<765:A,R}
+nlj{s<671:R,x<425:R,R}
+frt{m<454:srz,a>1436:gbf,xr}
+cv{m>2927:qd,tbl}
+vz{s>2596:bbp,s<2247:rpk,s>2462:fv,ssd}
+pbv{s>1407:ldb,s>929:A,kz}
+bgx{x<941:rv,zzx}
+pfg{x>3349:zzt,nfm}
+ssd{m<2231:tjf,a>683:gq,tv}
+cmf{s<3771:xj,m<1213:plz,dqb}
+qsk{s<3510:kd,ms}
+mjs{s<1429:A,A}
+dj{s>3501:br,m>1254:psq,x<3181:hm,fvf}
+hmd{m<3500:R,m>3704:R,A}
+tx{x>2397:R,x<1870:A,s<1560:A,R}
+ts{a<1021:A,x>2977:R,lcl}
+sfz{m>2706:A,s>3253:A,A}
+vrz{m>3406:R,m<2945:A,A}
+psb{x>3943:R,R}
+hvb{m>189:A,m<82:R,A}
+xk{x<1541:dbp,m<3333:xpg,s<2457:R,nv}
+jkx{s<2566:R,A}
+trm{a>3458:A,A}
+xl{a>319:A,m>3484:zl,nlt}
+mvd{a>391:A,m>852:R,A}
+mdk{m<1132:R,m>1384:A,R}
+ql{a>2685:dlh,xdc}
+tg{x>1137:xk,sr}
+xcm{s>2808:A,R}
+dkv{m>1597:A,a<1295:R,m>1451:A,A}
+pq{x>685:zq,A}
+hcq{m<1264:A,a>3456:R,x<3097:R,R}
+gfh{a<942:R,s>187:A,m>3151:A,R}
+nqc{m>952:kms,m<498:crv,x<1886:mp,lvs}
+zv{a<2363:A,s>2848:A,dv}
+kg{a<990:zd,frt}
+sxt{x>3571:mhl,s>1399:R,R}
+rcb{s>831:R,R}
+ct{m<2782:R,x<2144:R,R}
+jk{x>1280:R,a<62:R,a<97:A,A}
+xpg{s<2389:R,x>1653:R,x>1605:A,A}
+rm{s>756:R,s<272:A,A}
+zt{m<1571:R,x>357:R,s<90:R,R}
+kzh{x>2664:sd,s<1123:jlb,snb}
+hk{a>3113:A,m<2299:R,R}
+xgd{s>3436:A,s<3413:A,m<2980:A,R}
+xn{a<733:A,x>1650:R,a<1166:A,R}
+zg{a>211:R,R}
+phx{m>1520:R,s<3316:R,A}
+nl{x>1066:rcl,R}
+gts{a<2156:R,A}
+cz{s<3196:tg,vts}
+flt{x<1306:R,m>1253:A,s<3466:R,R}
+mq{m<3476:R,a>643:R,m>3779:A,zk}
+xpq{m>1741:btr,kj}
+dlg{s<3232:R,s>3262:R,R}
+jcp{m<292:A,x<3654:A,a<245:A,A}
+sds{a>1440:A,x<3037:R,A}
+kjt{x<2493:bd,mjv}
+xd{x>1460:R,vr}
+dg{s>3110:tsq,x>2350:mf,tbx}
+snk{a>2064:A,m>2299:R,A}
+xj{s<3720:R,a>2638:A,A}
+cgj{a<890:ff,x>1546:nx,m<1898:zcv,kfs}
+srz{a>1345:A,A}
+pn{s<1253:A,R}
+ktx{a<1448:A,a<1571:A,A}
+mdl{s<786:R,m<811:A,A}
+jqq{s>3703:gjp,hcq}
+rjk{s>459:A,x>3536:A,A}
+cxs{s>846:pnb,s>638:R,A}
+jtt{s>281:gmh,x<928:fnd,s<175:A,A}
+ngq{s>979:db,x<2798:tz,m>2572:R,sqt}
+qb{m>669:R,A}
+pvj{m>712:R,x>690:R,a>1577:R,A}
+
+{x=396,m=612,a=2012,s=177}
+{x=39,m=25,a=812,s=272}
+{x=1930,m=15,a=99,s=905}
+{x=373,m=1162,a=3153,s=1794}
+{x=1045,m=108,a=1143,s=639}
+{x=2178,m=621,a=580,s=172}
+{x=1292,m=1910,a=122,s=2528}
+{x=275,m=192,a=83,s=2992}
+{x=2218,m=157,a=99,s=545}
+{x=822,m=2795,a=82,s=150}
+{x=2178,m=12,a=1672,s=1504}
+{x=2463,m=620,a=882,s=1746}
+{x=1025,m=1370,a=21,s=45}
+{x=3161,m=944,a=884,s=1590}
+{x=285,m=849,a=595,s=2630}
+{x=423,m=480,a=177,s=2385}
+{x=2022,m=777,a=1166,s=371}
+{x=195,m=1446,a=1622,s=727}
+{x=1831,m=1163,a=710,s=98}
+{x=2054,m=767,a=416,s=462}
+{x=814,m=1038,a=1871,s=118}
+{x=2109,m=136,a=69,s=265}
+{x=30,m=745,a=2265,s=2135}
+{x=92,m=1923,a=1269,s=62}
+{x=2952,m=875,a=82,s=199}
+{x=1527,m=550,a=926,s=34}
+{x=84,m=1894,a=1418,s=3020}
+{x=1419,m=2050,a=2634,s=992}
+{x=19,m=1722,a=207,s=2292}
+{x=122,m=3195,a=179,s=979}
+{x=970,m=3603,a=193,s=1431}
+{x=515,m=681,a=501,s=459}
+{x=682,m=2621,a=1754,s=649}
+{x=1972,m=2722,a=215,s=2720}
+{x=358,m=2273,a=248,s=1091}
+{x=103,m=468,a=48,s=467}
+{x=111,m=251,a=199,s=55}
+{x=1536,m=541,a=1850,s=1349}
+{x=318,m=1491,a=1124,s=1821}
+{x=2441,m=1571,a=981,s=1207}
+{x=639,m=2165,a=588,s=658}
+{x=704,m=1423,a=2397,s=1207}
+{x=51,m=161,a=833,s=1036}
+{x=375,m=188,a=1668,s=681}
+{x=141,m=744,a=732,s=77}
+{x=341,m=1182,a=1040,s=249}
+{x=265,m=873,a=281,s=1691}
+{x=1022,m=37,a=1865,s=338}
+{x=1580,m=137,a=283,s=1031}
+{x=1361,m=1432,a=1179,s=2447}
+{x=617,m=1360,a=305,s=54}
+{x=235,m=733,a=60,s=2192}
+{x=362,m=181,a=1297,s=835}
+{x=133,m=132,a=1327,s=64}
+{x=573,m=263,a=741,s=98}
+{x=799,m=898,a=2180,s=732}
+{x=186,m=517,a=681,s=1168}
+{x=47,m=2806,a=3577,s=578}
+{x=3218,m=1130,a=1204,s=414}
+{x=2468,m=2891,a=900,s=2094}
+{x=215,m=1069,a=1689,s=1228}
+{x=372,m=937,a=725,s=412}
+{x=1434,m=1549,a=1539,s=1007}
+{x=3222,m=841,a=1854,s=1272}
+{x=2326,m=1637,a=1918,s=30}
+{x=1248,m=266,a=750,s=2521}
+{x=110,m=1288,a=364,s=749}
+{x=752,m=803,a=257,s=316}
+{x=1777,m=1615,a=942,s=110}
+{x=227,m=1524,a=1800,s=309}
+{x=105,m=246,a=1723,s=3455}
+{x=713,m=1172,a=833,s=804}
+{x=3026,m=39,a=376,s=71}
+{x=946,m=3437,a=1461,s=149}
+{x=1878,m=303,a=207,s=1081}
+{x=2982,m=2510,a=14,s=3078}
+{x=818,m=1042,a=943,s=958}
+{x=2349,m=7,a=802,s=822}
+{x=140,m=473,a=2454,s=3331}
+{x=1014,m=796,a=1453,s=348}
+{x=1578,m=2615,a=539,s=294}
+{x=993,m=276,a=564,s=2618}
+{x=2908,m=327,a=705,s=1430}
+{x=46,m=361,a=291,s=1076}
+{x=2267,m=212,a=952,s=365}
+{x=677,m=2277,a=550,s=1061}
+{x=226,m=1391,a=653,s=2321}
+{x=1654,m=15,a=27,s=421}
+{x=974,m=241,a=255,s=283}
+{x=202,m=84,a=1805,s=81}
+{x=337,m=529,a=254,s=42}
+{x=765,m=2055,a=473,s=413}
+{x=1731,m=81,a=370,s=133}
+{x=2839,m=739,a=513,s=990}
+{x=376,m=660,a=924,s=65}
+{x=627,m=1486,a=1422,s=2326}
+{x=2688,m=2,a=659,s=347}
+{x=1388,m=1650,a=1875,s=363}
+{x=305,m=1406,a=1285,s=50}
+{x=1095,m=382,a=2098,s=1120}
+{x=1172,m=402,a=1935,s=1646}
+{x=27,m=357,a=714,s=355}
+{x=42,m=45,a=217,s=1134}
+{x=22,m=415,a=624,s=358}
+{x=324,m=3057,a=221,s=3288}
+{x=540,m=179,a=1033,s=568}
+{x=7,m=999,a=453,s=316}
+{x=231,m=428,a=1092,s=8}
+{x=2221,m=3036,a=22,s=735}
+{x=247,m=516,a=339,s=1756}
+{x=3140,m=2229,a=1643,s=2012}
+{x=1248,m=500,a=624,s=779}
+{x=1245,m=1806,a=579,s=2269}
+{x=989,m=442,a=671,s=419}
+{x=266,m=1547,a=992,s=664}
+{x=1078,m=24,a=1069,s=1848}
+{x=908,m=1979,a=1027,s=956}
+{x=78,m=719,a=1328,s=105}
+{x=901,m=601,a=3503,s=1239}
+{x=949,m=851,a=356,s=1086}
+{x=315,m=565,a=1868,s=857}
+{x=1426,m=1398,a=918,s=1629}
+{x=1286,m=2229,a=500,s=16}
+{x=360,m=481,a=2006,s=991}
+{x=1514,m=2442,a=1921,s=183}
+{x=2155,m=1924,a=616,s=986}
+{x=2121,m=1323,a=352,s=958}
+{x=756,m=2750,a=543,s=2608}
+{x=833,m=168,a=2410,s=232}
+{x=3,m=810,a=451,s=40}
+{x=1151,m=452,a=1642,s=965}
+{x=560,m=2062,a=2265,s=846}
+{x=1,m=246,a=905,s=323}
+{x=1642,m=193,a=448,s=25}
+{x=86,m=486,a=588,s=75}
+{x=2360,m=5,a=417,s=2689}
+{x=676,m=947,a=402,s=355}
+{x=1869,m=44,a=944,s=1139}
+{x=36,m=1033,a=588,s=391}
+{x=63,m=31,a=608,s=817}
+{x=1115,m=2098,a=617,s=702}
+{x=2117,m=848,a=2371,s=3170}
+{x=270,m=2617,a=393,s=330}
+{x=325,m=3377,a=870,s=1077}
+{x=275,m=139,a=876,s=648}
+{x=657,m=231,a=2197,s=915}
+{x=1934,m=1410,a=1965,s=1574}
+{x=251,m=841,a=480,s=24}
+{x=771,m=479,a=107,s=2259}
+{x=1364,m=166,a=27,s=664}
+{x=774,m=303,a=909,s=93}
+{x=264,m=164,a=3471,s=176}
+{x=681,m=2247,a=1660,s=837}
+{x=1348,m=204,a=990,s=219}
+{x=650,m=1469,a=1269,s=1160}
+{x=1121,m=534,a=2270,s=927}
+{x=322,m=1871,a=693,s=170}
+{x=540,m=462,a=929,s=99}
+{x=3015,m=915,a=808,s=3661}
+{x=248,m=383,a=471,s=106}
+{x=1536,m=1350,a=2067,s=804}
+{x=1656,m=56,a=1629,s=995}
+{x=17,m=236,a=288,s=218}
+{x=663,m=1611,a=317,s=1272}
+{x=630,m=2397,a=1538,s=805}
+{x=211,m=2,a=137,s=514}
+{x=2340,m=191,a=173,s=618}
+{x=2154,m=6,a=42,s=884}
+{x=526,m=1292,a=694,s=1722}
+{x=606,m=355,a=1532,s=1351}
+{x=1405,m=543,a=126,s=3}
+{x=548,m=429,a=1382,s=572}
+{x=95,m=1008,a=1790,s=42}
+{x=1796,m=1272,a=188,s=201}
+{x=1437,m=3161,a=754,s=4}
+{x=891,m=447,a=1389,s=145}
+{x=183,m=894,a=821,s=1455}
+{x=457,m=79,a=1586,s=1179}
+{x=1631,m=828,a=2697,s=73}
+{x=56,m=506,a=1988,s=448}
+{x=3408,m=971,a=2130,s=1899}
+{x=347,m=1915,a=193,s=1460}
+{x=308,m=3,a=1189,s=191}
+{x=2,m=354,a=2761,s=287}
+{x=634,m=864,a=101,s=233}
+{x=632,m=91,a=1935,s=202}
+{x=27,m=1364,a=2765,s=2}
+{x=367,m=510,a=473,s=132}
+{x=987,m=2516,a=1834,s=1121}
+{x=626,m=845,a=176,s=265}
+{x=577,m=823,a=2129,s=23}
+{x=802,m=295,a=389,s=226}
+{x=844,m=301,a=549,s=126}
+{x=1139,m=235,a=9,s=1183}
+{x=663,m=2444,a=554,s=1516}
+{x=1244,m=355,a=252,s=1023}
+{x=151,m=2238,a=392,s=93}
+{x=99,m=1911,a=362,s=1272}
+{x=71,m=146,a=46,s=1359}
+{x=1140,m=650,a=75,s=1458}
+'
+]
+
 { #category : 'tests' }
 AOCTest >> test01 [
 
@@ -6864,9 +8526,91 @@ AOCTest >> test15 [
 AOCTest >> test16 [
 
 	| sample |
-	sample := ''.
-	self assert: (AOC day16a: sample) equals: nil.
+	sample := '.|...\....
+|.-.\.....
+.....|-...
+........|.
+..........
+.........\
+..../.\\..
+.-.-/..|..
+.|....-|.\
+..//.|....'.
+	self assert: (AOC day16a: sample) equals: 46.
 	self see: (AOC day16a: self data16).
 	self assert: (AOC day16b: sample) equals: nil.
 	self see: (AOC day16b: self data16)
+]
+
+{ #category : 'tests' }
+AOCTest >> test17 [
+
+	| sample |
+	sample := ''.
+	self assert: (AOC day17a: sample) equals: nil.
+	self see: (AOC day17a: self data17).
+	self assert: (AOC day17b: sample) equals: nil.
+	self see: (AOC day17b: self data17)
+]
+
+{ #category : 'tests' }
+AOCTest >> test18 [
+
+	| sample |
+	sample := 'R 6 (#70c710)
+D 5 (#0dc571)
+L 2 (#5713f0)
+D 2 (#d2c081)
+R 2 (#59c680)
+D 2 (#411b91)
+L 5 (#8ceee2)
+U 2 (#caa173)
+L 1 (#1b58a2)
+U 2 (#caa171)
+R 2 (#7807d2)
+U 3 (#a77fa3)
+L 2 (#015232)
+U 2 (#7a21e3)'.
+	self assert: (AOC day18a: sample) equals: 62.
+	self see: (AOC day18a: self data18).
+	self assert: (AOC day18b: sample) equals: nil.
+	self see: (AOC day18b: self data18)
+]
+
+{ #category : 'tests' }
+AOCTest >> test19 [
+
+	| sample |
+	sample := 'px{a<2006:qkq,m>2090:A,rfg}
+pv{a>1716:R,A}
+lnx{m>1548:A,A}
+rfg{s<537:gd,x>2440:R,A}
+qs{s>3448:A,lnx}
+qkq{x<1416:A,crn}
+crn{x>2662:A,R}
+in{s<1351:px,qqz}
+qqz{s>2770:qs,m<1801:hdj,R}
+gd{a>3333:R,R}
+hdj{m>838:A,pv}
+
+{x=787,m=2655,a=1222,s=2876}
+{x=1679,m=44,a=2067,s=496}
+{x=2036,m=264,a=79,s=2244}
+{x=2461,m=1339,a=466,s=291}
+{x=2127,m=1623,a=2188,s=1013}'.
+	self assert: (AOC day19a: sample) equals: 19114.
+	self see: (AOC day19a: self data19).
+	self assert: (AOC day19b: sample) equals: nil.
+	self see: (AOC day19b: self data19)
+]
+
+{ #category : 'tests' }
+AOCTest >> test20 [
+
+	| sample |
+	sample := ''.
+	self assert: (AOC day20a: sample) equals: nil.
+	self see: (AOC day20a: self data20).
+	self assert: (AOC day20b: sample) equals: nil.
+	self see: (AOC day20b: self data20)
 ]

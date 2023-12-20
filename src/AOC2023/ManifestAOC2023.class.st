@@ -17,6 +17,13 @@ ManifestAOC2023 class >> ruleCodeCruftLeftInMethodsRuleV1FalsePositive [
 ]
 
 { #category : 'code-critics' }
+ManifestAOC2023 class >> ruleExcessiveArgumentsRuleV1FalsePositive [
+
+	<ignoreForCoverage>
+	^ #(#(#(#RGMethodDefinition #(#AOC #day16a:row:col:direction:into: #false)) #'2023-12-18T20:25:53.389937-05:00') )
+]
+
+{ #category : 'code-critics' }
 ManifestAOC2023 class >> ruleLongMethodsRuleV1FalsePositive [
 
 	<ignoreForCoverage>
